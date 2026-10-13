@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>News Desk</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--ink:#1b1f24;--mute:#5d6673;--line:#dde1e6;--accent:#1f5fbf;--up:#18794e;--down:#b42318;--chip:#eaeef4}
+:root[data-theme="dark"]{--bg:#0f1318;--card:#171c23;--ink:#e6e9ee;--mute:#9aa4b2;--line:#27303a;--accent:#6aa5ff;--up:#4cc38a;--down:#ff7b72;--chip:#222a34}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1318;--card:#171c23;--ink:#e6e9ee;--mute:#9aa4b2;--line:#27303a;--accent:#6aa5ff;--up:#4cc38a;--down:#ff7b72;--chip:#222a34}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+a{color:inherit;text-decoration:none}
+header{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
+.bar{max-width:1200px;margin:0 auto;padding:10px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.brand{font-weight:700;font-size:18px;letter-spacing:.2px}
+nav{display:flex;gap:6px;flex-wrap:wrap}
+nav a{padding:6px 12px;border-radius:999px;background:var(--chip);font-size:14px}
+nav a.on{background:var(--accent);color:#fff}
+.sp{flex:1}
+input[type=search]{padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);min-width:160px;width:220px;font-size:15px}
+button{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:7px 10px;font-size:14px;cursor:pointer}
+main{max-width:1200px;margin:0 auto;padding:16px}
+.strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;margin-bottom:14px}
+.tile{flex:0 0 auto;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;min-width:112px}
+.tile b{display:block;font-size:12px;color:var(--mute);font-weight:600}
+.tile span{font-size:16px;font-weight:600}
+.up{color:var(--up)}.down{color:var(--down)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h2{margin:0 0 8px;font-size:16px;display:flex;justify-content:space-between;align-items:baseline}
+.card h2 a.more{font-size:13px;color:var(--accent);font-weight:500}
+.story{padding:10px 0;border-top:1px solid var(--line)}
+.story:first-of-type{border-top:0}
+.story .t{font-weight:600;font-size:15px;display:block}
+.story .t:hover{color:var(--accent)}
+.meta{font-size:12px;color:var(--mute);margin-top:2px}
+.sum{margin:4px 0 0;color:var(--ink);font-size:14px}
+.chips{display:flex;gap:5px;flex-wrap:wrap;margin-top:5px}
+.chip{background:var(--chip);border-radius:6px;padding:1px 7px;font-size:12px;color:var(--mute)}
+.chip.tk{color:var(--accent);font-weight:600}
+.also{font-size:12px;color:var(--mute);margin-top:4px}
+.also a{color:var(--accent)}
+h1{font-size:20px;margin:4px 0 12px}
+.list{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 16px}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.filters button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+footer{max-width:1200px;margin:0 auto;padding:6px 16px 40px;color:var(--mute);font-size:12px}
+details{margin-top:8px}
+.empty{color:var(--mute);padding:14px 0}
+@media (max-width:560px){.grid{grid-template-columns:1fr}input[type=search]{width:100%;flex:1 1 100%}}
+</style>
+</head>
+<body>
+<header><div class="bar">
+  <a class="brand" href="#/">News Desk</a>
+  <nav id="nav"></nav>
+  <span class="sp"></span>
+  <input id="q" type="search" placeholder="Search all stories" aria-label="Search">
+  <button id="theme" aria-label="Toggle theme">Theme</button>
+</div></header>
+<main id="main"><p class="empty">Loading...</p></main>
+<footer id="foot"></footer>
+<script>
+let D = null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function ago(iso){
+  const m = Math.max(0, (Date.now() - new Date(iso)) / 60000);
+  if (m < 60) return Math.round(m) + "m ago";
+  if (m < 1440) return Math.round(m / 60) + "h ago";
+  return Math.round(m / 1440) + "d ago";
+}
+function storyHtml(s, full){
+  const lock = s.paywalled ? " (subscription)" : "";
+  const tk = (s.tickers || []).map(t => `<span class="chip tk">${esc(t)}</span>`).join("");
+  const also = (s.also && s.also.length) ? `<div class="also">Also covered by ${s.also.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`).join(", ")}</div>` : "";
+  const sum = (!s.paywalled && s.summary) ? `<p class="sum">${esc(s.summary)}</p>` : "";
+  return `<div class="story"><a class="t" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>
+    <div class="meta">${esc(s.source)}${lock} &middot; ${ago(s.published)}</div>${sum}${tk ? `<div class="chips">${tk}</div>` : ""}${also}</div>`;
+}
+function snapshotHtml(){
+  if (!D.snapshot || !D.snapshot.some(x => x.price != null)) return "";
+  return `<div class="strip">${D.snapshot.filter(x => x.price != null).map(x => {
+    const c = x.change_pct; const cls = c == null ? "" : (c >= 0 ? "up" : "down");
+    const sign = c != null && c >= 0 ? "+" : "";
+    return `<div class="tile"><b>${esc(x.label)}</b><span>${x.price.toLocaleString()}</span> <span class="${cls}" style="font-size:13px">${c == null ? "" : sign + c.toFixed(2) + "%"}</span></div>`;
+  }).join("")}</div>`;
+}
+function renderNav(active){
+  $("#nav").innerHTML = `<a href="#/" class="${active === "home" ? "on" : ""}">Home</a>` +
+    D.sections.map(s => `<a href="#/${s.id}" class="${active === s.id ? "on" : ""}">${esc(s.title)}</a>`).join("");
+}
+function home(){
+  renderNav("home");
+  const cards = D.sections.map(sec => {
+    const items = D.stories.filter(s => s.section === sec.id).slice(0, 6);
+    return `<section class="card"><h2>${esc(sec.title)} <a class="more" href="#/${sec.id}">See all</a></h2>${items.length ? items.map(s => storyHtml(s)).join("") : '<div class="empty">Nothing yet.</div>'}</section>`;
+  }).join("");
+  $("#main").innerHTML = snapshotHtml() + `<div class="grid">${cards}</div>`;
+}
+let srcFilter = null;
+function section(id){
+  renderNav(id);
+  const sec = D.sections.find(s => s.id === id);
+  if (!sec) return home();
+  const all = D.stories.filter(s => s.section === id);
+  const srcs = [...new Set(all.map(s => s.source))].sort();
+  const items = srcFilter ? all.filter(s => s.source === srcFilter) : all;
+  $("#main").innerHTML = (id === "markets" ? snapshotHtml() : "") + `<h1>${esc(sec.title)}</h1>
+    <div class="filters"><button class="${srcFilter ? "" : "on"}" data-src="">All sources</button>${srcs.map(x => `<button class="${srcFilter === x ? "on" : ""}" data-src="${esc(x)}">${esc(x)}</button>`).join("")}</div>
+    <div class="list">${items.length ? items.slice(0, 120).map(s => storyHtml(s, true)).join("") : '<div class="empty">Nothing yet.</div>'}</div>`;
+  document.querySelectorAll(".filters button").forEach(b => b.onclick = () => { srcFilter = b.dataset.src || null; section(id); });
+}
+function search(term){
+  renderNav("");
+  const t = term.toLowerCase();
+  const items = D.stories.filter(s => (s.title + " " + (s.summary || "") + " " + s.source + " " + (s.tickers || []).join(" ")).toLowerCase().includes(t));
+  $("#main").innerHTML = `<h1>Search: ${esc(term)} (${items.length})</h1><div class="list">${items.length ? items.slice(0, 150).map(s => storyHtml(s)).join("") : '<div class="empty">No matches in the last 30 days.</div>'}</div>`;
+}
+function route(){
+  if (!D) return;
+  const h = location.hash.replace(/^#\/?/, "");
+  if (h.startsWith("q=")) return search(decodeURIComponent(h.slice(2)));
+  srcFilter = null;
+  h ? section(h) : home();
+  window.scrollTo(0, 0);
+}
+function footer(){
+  const bad = D.health.filter(h => h.status === "error");
+  const off = D.health.filter(h => h.status === "disabled");
+  $("#foot").innerHTML = `Updated ${new Date(D.generated).toLocaleString()}. Summaries are AI generated from the headline and excerpt; open the link for the full story.` +
+    `<details><summary>Feed status (${D.health.filter(h => h.status === "ok").length} working, ${bad.length} failing, ${off.length} off)</summary>` +
+    D.health.map(h => `<div>${esc(h.source)}: ${esc(h.status)}${h.count != null ? " (" + h.count + ")" : ""}${h.note ? " " + esc(h.note) : ""}</div>`).join("") + `</details>`;
+}
+$("#q").addEventListener("input", e => {
+  const v = e.target.value.trim();
+  location.hash = v ? "#/q=" + encodeURIComponent(v) : "#/";
+});
+$("#theme").onclick = () => {
+  const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const next = cur === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("theme", next); } catch (e) {}
+};
+try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+window.addEventListener("hashchange", route);
+fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => { D = d; document.title = d.title || "News Desk"; footer(); route(); })
+  .catch(() => { $("#main").innerHTML = '<p class="empty">No data yet. The first build has not run.</p>'; });
+</script>
+</body>
+</html>
