@@ -1,0 +1,5 @@
+# Fallback tickers, used only if the Signal Bench page cannot be read.
+AER
+GS
+JPM
+XOM
