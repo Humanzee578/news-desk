@@ -238,6 +238,10 @@ def summarize(stories, cfg):
             }
             r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=40, headers={
                 "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+            if r.status_code >= 400:
+                print("API error", r.status_code, r.text[:300], file=sys.stderr)
+                if done == 0 and r.status_code in (400, 401, 403, 404):
+                    cap = 0
             r.raise_for_status()
             st["summary"] = r.json()["content"][0]["text"].strip()
             st["ai"] = True
