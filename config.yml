@@ -1,0 +1,96 @@
+# News Desk configuration. Ask Claude to change sources, keywords or sections.
+# Rules: no case names, client names or matter data anywhere in this file.
+
+site:
+  title: "News Desk"
+  retention_days: 30
+  max_new_summaries_per_run: 40
+  model: "claude-haiku-5-5"
+
+# Tickers are read from the public Signal Bench page (bench, buys and open positions).
+# If that fetch fails, tickers.txt is used instead.
+tickers:
+  signal_bench_url: "https://humanzee578.github.io/signal-bench/"
+  ticker_news_url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s={t}&region=US&lang=en-US"
+  items_per_ticker: 2
+
+sections:
+  - {id: legal, title: "Legal"}
+  - {id: markets, title: "Markets"}
+  - {id: general, title: "General"}
+  - {id: interests, title: "Interests"}
+
+# type: rss (direct feed) or gnews (Google News RSS search, used where a site has no usable feed)
+# paywalled: true shows headline and link only, no summary
+# enabled: false skips a source (kept here as a note)
+sources:
+  # Legal
+  - {section: legal, name: "Insurance Journal", type: rss, url: "https://www.insurancejournal.com/rss/news/"}
+  - {section: legal, name: "Claims Journal", type: gnews, query: "site:claimsjournal.com"}
+  - {section: legal, name: "PropertyCasualty360", type: gnews, query: "site:propertycasualty360.com"}
+  - {section: legal, name: "Missouri Lawyers Weekly", type: gnews, query: "site:molawyersmedia.com", paywalled: true}
+  - {section: legal, name: "Reuters Legal", type: gnews, query: "site:reuters.com/legal"}
+  - {section: legal, name: "Missouri Independent", type: rss, url: "https://missouriindependent.com/feed/"}
+  - {section: legal, name: "Missouri House and Senate", type: gnews, query: "site:house.mo.gov OR site:senate.mo.gov"}
+  - {section: legal, name: "Missouri Supreme Court and Court of Appeals opinions", type: rss, url: "", enabled: false, note: "No feed found yet. Needs discovery on courts.mo.gov."}
+
+  # Markets
+  - {section: markets, name: "MarketWatch", type: rss, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"}
+  - {section: markets, name: "CNBC", type: rss, url: "https://www.cnbc.com/id/20910258/device/rss/rss.html"}
+
+  # General
+  - {section: general, name: "AP Politics", type: gnews, query: "site:apnews.com politics"}
+  - {section: general, name: "AP Business", type: gnews, query: "site:apnews.com business"}
+  - {section: general, name: "AP World", type: gnews, query: "site:apnews.com world"}
+  - {section: general, name: "AP Science", type: gnews, query: "site:apnews.com science"}
+  - {section: general, name: "KSDK", type: gnews, query: "site:ksdk.com"}
+  - {section: general, name: "St. Louis Public Radio", type: gnews, query: "site:stlpr.org"}
+  - {section: general, name: "St. Louis Post-Dispatch", type: gnews, query: "site:stltoday.com", paywalled: true}
+
+  # Interests
+  - {section: interests, name: "iRunFar", type: rss, url: "https://www.irunfar.com/feed"}
+  - {section: interests, name: "Runner's World", type: rss, url: "https://www.runnersworld.com/rss/all.xml/"}
+  - {section: interests, name: "MLB.com Cardinals", type: rss, url: "https://www.mlb.com/cardinals/feeds/news/rss.xml"}
+
+# Relevance boosts. Matched against title and excerpt, case insensitive. Keep generic.
+keywords:
+  legal:
+    "bad faith": 6
+    "premises liability": 5
+    "tort reform": 5
+    "missouri supreme court": 5
+    "construction defect": 4
+    "homeowners association": 4
+    "insurance coverage": 4
+    "punitive damages": 4
+    "summary judgment": 3
+    "court of appeals": 3
+    "wrongful death": 3
+    "uninsured motorist": 3
+    "condominium": 3
+    "missouri": 2
+  markets:
+    "federal reserve": 3
+    "rate cut": 3
+    "earnings": 2
+    "fda": 2
+  general:
+    "st. louis": 4
+    "missouri": 3
+  interests:
+    "cardinals": 4
+    "marathon": 3
+    "trail": 2
+    "ultra": 2
+    "st. louis": 3
+
+ticker_boost: 4
+
+market_snapshot:
+  - {label: "S&P 500", symbol: "^GSPC"}
+  - {label: "Dow", symbol: "^DJI"}
+  - {label: "Nasdaq", symbol: "^IXIC"}
+  - {label: "VIX", symbol: "^VIX"}
+  - {label: "10 Yr Yield", symbol: "^TNX"}
+  - {label: "S&P Futures", symbol: "ES=F"}
+  - {label: "Nasdaq Futures", symbol: "NQ=F"}
