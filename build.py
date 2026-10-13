@@ -218,7 +218,7 @@ def cluster(stories):
 def summarize(stories, cfg):
     key = os.environ.get("ANTHROPIC_API_KEY")
     cap = cfg["site"]["max_new_summaries_per_run"]
-    todo = [s for s in stories if not s["paywalled"] and not s.get("summary")]
+    todo = [s for s in stories if not s["paywalled"] and not s.get("ai")]
     todo.sort(key=lambda x: -x["score"])
     done = 0
     for st in todo:
