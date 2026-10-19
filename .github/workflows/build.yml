@@ -23,8 +23,6 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Build
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.SECRETONE }}
         run: python build.py
       - name: Commit data
         run: |

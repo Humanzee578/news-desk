@@ -216,41 +216,11 @@ def cluster(stories):
 
 
 def summarize(stories, cfg):
-    key = os.environ.get("ANTHROPIC_API_KEY")
-    cap = cfg["site"]["max_new_summaries_per_run"]
-    todo = [s for s in stories if not s["paywalled"] and not s.get("ai")]
-    todo.sort(key=lambda x: -x["score"])
-    done = 0
-    for st in todo:
-        fallback = clean(st.get("blurb"), 220)
-        if not key or done >= cap:
-            st["summary"] = fallback
-            st["ai"] = False
-            continue
-        try:
-            body = {
-                "model": cfg["site"]["model"], "max_tokens": 120,
-                "messages": [{"role": "user", "content":
-                    "Summarize this news item in one or two plain sentences for a busy reader. "
-                    "Use only the text given. Do not add facts. Do not use dashes; use commas instead. "
-                    "If there is too little text, restate the headline plainly in one sentence.\n\n"
-                    f"Headline: {st['title']}\nSource: {st['source']}\nExcerpt: {st.get('blurb') or '(none)'}"}],
-            }
-            r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=40, headers={
-                "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-            if r.status_code >= 400:
-                print("API error", r.status_code, r.text[:300], file=sys.stderr)
-                if done == 0 and r.status_code in (400, 401, 403, 404):
-                    cap = 0
-            r.raise_for_status()
-            st["summary"] = r.json()["content"][0]["text"].strip()
-            st["ai"] = True
-            done += 1
-        except Exception as ex:
-            print("summary failed:", str(ex)[:100], file=sys.stderr)
-            st["summary"] = fallback
-            st["ai"] = False
-    return done
+    """Excerpt only. The Claude written briefing (briefing.py) replaces API summaries."""
+    for st in stories:
+        if not st["paywalled"] and not st.get("summary"):
+            st["summary"] = clean(st.get("blurb"), 220)
+    return 0
 
 
 def main():

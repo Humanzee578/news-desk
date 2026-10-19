@@ -4,8 +4,6 @@
 site:
   title: "News Desk"
   retention_days: 30
-  max_new_summaries_per_run: 40
-  model: "claude-haiku-5-5"
 
 # Tickers are read from the public Signal Bench page (bench, buys and open positions).
 # If that fetch fails, tickers.txt is used instead.
