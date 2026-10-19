@@ -1,0 +1,127 @@
+{
+ "generated": "2026-10-19T23:38:06.642360+00:00",
+ "data_generated": "2026-10-19T20:15:39.319899+00:00",
+ "markets_note": "Rough session: the Nasdaq is down about 3 percent and the VIX is up about 21 percent in the site's latest snapshot. The Fed is the main storyline, with BofA arguing for a hike while futures traders see a small chance.",
+ "sections": [
+  {
+   "id": "legal",
+   "title": "Legal",
+   "items": [
+    {
+     "title": "A Repair Estimate Is Not Necessarily a Notice of Bad Faith in Louisiana",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/southcentral/2026/10/19/889580.htm",
+     "summary": "A Louisiana insurer received a contractor's estimate far above what it paid after a hurricane, and the insured sued for bad faith penalties 60 days later. Federal courts in Louisiana have held that an estimate describing damage is not by itself notice of a statutory violation, and they have stayed suits until proper notice is given. The Louisiana Supreme Court is still considering the issue. Louisiana law, so persuasive context only for Missouri work.",
+     "basis": "full article",
+     "paywalled": false
+    },
+    {
+     "title": "Appeals court overturns denial of 13 marijuana licenses",
+     "source": "Missouri Lawyers Weekly",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb29YZmZsaFdnNlFhVUcxUUk4bm5IV0UxcFRIQVVYM0JfazB4cGJDZUhPdzFYZzNYRlVPYlVJVnlwTjlWWnBMemRjNkxSOUNzS01YaDhKYWNXTXZYMk1zdVlBZEJiMUhhcm9uRE1mY0ZIb3hYWWg3eDlMTFUwY05XWnNkTXJrQQ?oc=5",
+     "summary": "Missouri Lawyers Weekly reports that an appeals court overturned the denial of 13 marijuana licenses. Subscription article, so this is the headline only. Open the link for the court and the reasoning.",
+     "basis": "headline only",
+     "paywalled": true
+    },
+    {
+     "title": "California Adds Voluntary Review Before Insurers File Rate Applications",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/west/2026/10/19/889586.htm",
+     "summary": "California is adding an optional review step before insurers formally file rate changes. The Department of Insurance can publish its early rate estimates and concerns first. It applies to property and casualty insurers, who can opt in or go straight to the standard filing.",
+     "basis": "full article",
+     "paywalled": false
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "items": [
+    {
+     "title": "Why BofA still sees an October Fed rate hike",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/economy/policy/articles/why-bofa-still-sees-october-125806671.html?.tsrc=rss",
+     "summary": "BofA analysts still see a strong case for a Fed rate hike in October, pointing to September inflation and a core PCE reading that could reach about 3.4 percent by year end. The market prices only about a 20 percent chance of a hike at the October 28 meeting.",
+     "basis": "full article",
+     "paywalled": false
+    },
+    {
+     "title": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls But Steel Plays Pop (Live Coverage)",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+     "summary": "Live market coverage says the Dow is steady while tech jumps, with Amazon and Nvidia climbing. The excerpt notes the Nasdaq hit resistance as oil rose.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
+     "title": "This Week’s Tech Earnings Could Be a ‘Validation Moment’ for the AI Trade",
+     "source": "Yahoo Finance",
+     "url": "https://www.investopedia.com/market-update-this-weeks-tech-earnings-could-be-a-validation-moment-for-the-ai-trade-12182053?.tsrc=rss",
+     "summary": "Earnings season continues this week with reports from air travel to consumer goods. The piece frames the week's tech earnings as a possible validation moment for the AI trade.",
+     "basis": "excerpt",
+     "paywalled": false
+    }
+   ]
+  },
+  {
+   "id": "general",
+   "title": "General",
+   "items": [
+    {
+     "title": "St. Louis Voter Guide: Missouri judges — Who's on the ballot and what to know about them",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnM4Wi1yMmpVck1fdFhCRkVaQ0RjLVljeUJnZDlyUjNKMUVCblNqTXoyNl9Db0NDcXN2amM5M2NYQ1FuNHRVV0Jwb29BYk5SSFFEWkxaMFkzbTF1Z3BSRmdWWGxtNUQ3dlpudGUzWldBVF9iQ0M0VHN6VlNfam9ITVZ6RjdjaVpIM1hYbXh4aTlEYm9QeWpCTE13?oc=5",
+     "summary": "St. Louis Public Radio's voter guide to the Missouri judges on the ballot and what to know about them. Headline only.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "Why older homeowners need thousands to fix their homes in St. Louis",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZPZ243RUJ6Y3hMWlMzTmNHdDJVZ0hURzZWZEt0NmFTMmlOVXpoYXNCMXdfVTdZajVUblFuVjFKOWc1X1VtX0hFV2JuUFprWnlva3l2YlZRb2ZCalNCaWh3UXAtQzR5eDhERTYwWFJaS3NMRjR1MnJseDBlVzFCVXVMTE5tcVpMVGlKM0R2MGpkSVJUQ3d3anFZRUZidDRiN0E5Z2FDbw?oc=5",
+     "summary": "St. Louis Public Radio looks at why older homeowners in St. Louis need thousands of dollars to fix their homes. Headline only.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "Why isn't Election Day a federal holiday?",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUl2YnZPelNZX2xlc0tHdl9jVGgyanY4WG92eTNwcHFmSGNRYWN1VGNqUVVUSms1UWNPcFhJRWx0dk5yaEJPd1lLODZnYU9XMGUtN08xUllQZE15MGpsNE5jdzBwekFfV1dsdGsyREFOMjVmcUhmNlprMThOczFjWmdTdmtScDZ3QlY5b21NV2o2M0tmYzJ3Zl9YNm9IQ2V2Zm1IM1ZCTnEzS1F5Q2VXMmhLUm9Fa1duUTBBWHA4RGN1eG9MMzZNNnhtS21nNzhObjVzUHFRY1FqVVJIc1E?oc=5",
+     "summary": "KSDK explains why Election Day is not a federal holiday. Headline only.",
+     "basis": "headline only",
+     "paywalled": false
+    }
+   ]
+  },
+  {
+   "id": "interests",
+   "title": "Interests",
+   "items": [
+    {
+     "title": "This Week In Running: October 19, 2026",
+     "source": "iRunFar",
+     "url": "https://www.irunfar.com/this-week-in-running-october-19-2026",
+     "summary": "Francesco Puppi won the Grand Trail des Templiers in 6:32, one second off Jon Albon's 2021 course record, and Martyna Mlynarczyk won the women's race in 7:41. Hugo Deck won the longest ever Diagonale des Fous in 22:54, and Ruth Croft won the women's race in 27:13, her third win among the sport's four best known 100 mile races.",
+     "basis": "full article",
+     "paywalled": false
+    },
+    {
+     "title": "Training for a Half Marathon? Coaches Say to Avoid These 7 Mistakes",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/training/a74181520/half-marathon-training-mistakes-tips/",
+     "summary": "Coaches list 7 common half marathon training mistakes to fix now so you can race 13.1 stronger and smarter. I could only read the excerpt.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
+     "title": "How to Avoid Hitting the Wall in a Marathon",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/training/a74182067/amazing-runners-world-show-episode-137/",
+     "summary": "A Runner's World piece on why the dreaded bonk happens in a marathon and how smart fueling can help prevent it. Excerpt only.",
+     "basis": "excerpt",
+     "paywalled": false
+    }
+   ]
+  }
+ ]
+}

@@ -49,6 +49,15 @@ h1{font-size:20px;margin:4px 0 12px}
 footer{max-width:1200px;margin:0 auto;padding:6px 16px 40px;color:var(--mute);font-size:12px}
 details{margin-top:8px}
 .empty{color:var(--mute);padding:14px 0}
+.brief{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.brief h2{margin:0 0 2px;font-size:17px}
+.brief .sub{font-size:12px;color:var(--mute);margin-bottom:10px}
+.brief .note{font-size:14px;margin:0 0 12px;padding:8px 10px;background:var(--chip);border-radius:8px}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
+.bgrid h3{margin:0 0 4px;font-size:14px;color:var(--accent)}
+.bi{padding:8px 0;border-top:1px solid var(--line)}
+.bi:first-of-type{border-top:0}
+.bi .basis{font-size:11px;color:var(--mute)}
 @media (max-width:560px){.grid{grid-template-columns:1fr}input[type=search]{width:100%;flex:1 1 100%}}
 </style>
 </head>
@@ -93,13 +102,22 @@ function renderNav(active){
   $("#nav").innerHTML = `<a href="#/" class="${active === "home" ? "on" : ""}">Home</a>` +
     D.sections.map(s => `<a href="#/${s.id}" class="${active === s.id ? "on" : ""}">${esc(s.title)}</a>`).join("");
 }
+let B = null;
+function briefingHtml(){
+  if (!B || !B.sections) return "";
+  const when = new Date(B.generated).toLocaleString([], {weekday:"short", hour:"numeric", minute:"2-digit"});
+  const cols = B.sections.filter(s => s.items.length).map(s => `<div><h3>${esc(s.title)}</h3>` + s.items.map(i =>
+    `<div class="bi"><a class="t" href="${esc(i.url)}" target="_blank" rel="noopener" style="font-weight:600">${esc(i.title)}</a>
+     <div class="meta">${esc(i.source)}${i.paywalled ? " (subscription)" : ""}</div><p class="sum">${esc(i.summary)}</p><div class="basis">Basis: ${esc(i.basis)}</div></div>`).join("") + `</div>`).join("");
+  return `<section class="brief"><h2>Briefing</h2><div class="sub">Top stories per section, summarized by Claude. Updated ${esc(when)}.</div>${B.markets_note ? `<p class="note">${esc(B.markets_note)}</p>` : ""}<div class="bgrid">${cols}</div></section>`;
+}
 function home(){
   renderNav("home");
   const cards = D.sections.map(sec => {
     const items = D.stories.filter(s => s.section === sec.id).slice(0, 6);
     return `<section class="card"><h2>${esc(sec.title)} <a class="more" href="#/${sec.id}">See all</a></h2>${items.length ? items.map(s => storyHtml(s)).join("") : '<div class="empty">Nothing yet.</div>'}</section>`;
   }).join("");
-  $("#main").innerHTML = snapshotHtml() + `<div class="grid">${cards}</div>`;
+  $("#main").innerHTML = snapshotHtml() + briefingHtml() + `<div class="grid">${cards}</div>`;
 }
 let srcFilter = null;
 function section(id){
@@ -147,7 +165,7 @@ $("#theme").onclick = () => {
 };
 try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
 window.addEventListener("hashchange", route);
-fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => { D = d; document.title = d.title || "News Desk"; footer(); route(); })
+fetch("briefing.json?t=" + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null).then(b => { B = b; return fetch("data.json?t=" + Date.now()); }).then(r => r.json()).then(d => { D = d; document.title = d.title || "News Desk"; footer(); route(); })
   .catch(() => { $("#main").innerHTML = '<p class="empty">No data yet. The first build has not run.</p>'; });
 </script>
 </body>
