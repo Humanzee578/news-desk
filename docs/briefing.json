@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T23:38:06.642360+00:00",
- "data_generated": "2026-10-19T20:15:39.319899+00:00",
- "markets_note": "Rough session: the Nasdaq is down about 3 percent and the VIX is up about 21 percent in the site's latest snapshot. The Fed is the main storyline, with BofA arguing for a hike while futures traders see a small chance.",
+ "generated": "2026-10-20T11:26:05.013173+00:00",
+ "data_generated": "2026-10-20T07:45:58.028554+00:00",
+ "markets_note": "The snapshot shows the S&P 500 at 7690.73 (down 1.49%) and the Nasdaq at 26430.89 (down 2.99%), while the Dow is up 0.22%. The VIX is up about 10% to 18.55, the 10 year yield is 5.14%, and S&P futures are down 0.71%. One story I read the headline of describes a Nasdaq led relief rally ahead of key earnings, which does not match the snapshot's tech selloff.",
  "sections": [
   {
    "id": "legal",
@@ -11,24 +11,24 @@
      "title": "A Repair Estimate Is Not Necessarily a Notice of Bad Faith in Louisiana",
      "source": "Insurance Journal",
      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/19/889580.htm",
-     "summary": "A Louisiana insurer received a contractor's estimate far above what it paid after a hurricane, and the insured sued for bad faith penalties 60 days later. Federal courts in Louisiana have held that an estimate describing damage is not by itself notice of a statutory violation, and they have stayed suits until proper notice is given. The Louisiana Supreme Court is still considering the issue. Louisiana law, so persuasive context only for Missouri work.",
-     "basis": "full article",
+     "summary": "This is a Louisiana case, so it is persuasive only in Missouri. The article asks whether a contractor's repair estimate, sent after a hurricane and far higher than what the insurer paid, starts the clock for the insurer to fix its payment before bad faith penalties apply. The insured sued after sixty days passed and sought those penalties. The excerpt does not give the answer, so the full article is worth a read.",
+     "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Appeals court overturns denial of 13 marijuana licenses",
-     "source": "Missouri Lawyers Weekly",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb29YZmZsaFdnNlFhVUcxUUk4bm5IV0UxcFRIQVVYM0JfazB4cGJDZUhPdzFYZzNYRlVPYlVJVnlwTjlWWnBMemRjNkxSOUNzS01YaDhKYWNXTXZYMk1zdVlBZEJiMUhhcm9uRE1mY0ZIb3hYWWg3eDlMTFUwY05XWnNkTXJrQQ?oc=5",
-     "summary": "Missouri Lawyers Weekly reports that an appeals court overturned the denial of 13 marijuana licenses. Subscription article, so this is the headline only. Open the link for the court and the reasoning.",
-     "basis": "headline only",
-     "paywalled": true
+     "title": "WR Berkley Reports Q3 Net Income Decrease, Operating Income Up",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/national/2026/10/20/889600.htm",
+     "summary": "W.R. Berkley reported third quarter 2026 net income down about 12.7% from a year ago, to about $446 million. Operating income was $456.5 million, which the report describes as up from the earlier period. This is one signal of how a large commercial insurer is doing.",
+     "basis": "excerpt",
+     "paywalled": false
     },
     {
-     "title": "California Adds Voluntary Review Before Insurers File Rate Applications",
+     "title": "Washington Commissioner Fines Insurers, Producers $495,200",
      "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/west/2026/10/19/889586.htm",
-     "summary": "California is adding an optional review step before insurers formally file rate changes. The Department of Insurance can publish its early rate estimates and concerns first. It applies to property and casualty insurers, who can opt in or go straight to the standard filing.",
-     "basis": "full article",
+     "url": "https://www.insurancejournal.com/news/west/2026/10/20/888035.htm",
+     "summary": "Washington's insurance commissioner reported fines totaling $495,200 against insurance companies, agencies and producers for violations of insurance law between April and August. This is out of state regulatory activity, so it is persuasive only. The excerpt does not say what the two largest fines were for.",
+     "basis": "excerpt",
      "paywalled": false
     }
    ]
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Why BofA still sees an October Fed rate hike",
+     "title": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/economy/policy/articles/why-bofa-still-sees-october-125806671.html?.tsrc=rss",
-     "summary": "BofA analysts still see a strong case for a Fed rate hike in October, pointing to September inflation and a core PCE reading that could reach about 3.4 percent by year end. The market prices only about a 20 percent chance of a hike at the October 28 meeting.",
-     "basis": "full article",
-     "paywalled": false
-    },
-    {
-     "title": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls But Steel Plays Pop (Live Coverage)",
-     "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-     "summary": "Live market coverage says the Dow is steady while tech jumps, with Amazon and Nvidia climbing. The excerpt notes the Nasdaq hit resistance as oil rose.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/tech-heavy-nasdaq-leads-wall-204243443.html?.tsrc=rss",
+     "summary": "The headline says the tech heavy Nasdaq led a relief rally on Wall Street ahead of key earnings, with an end of day update to the story. The excerpt was cut off, so no index levels are available from it.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "This Week’s Tech Earnings Could Be a ‘Validation Moment’ for the AI Trade",
+     "title": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
      "source": "Yahoo Finance",
-     "url": "https://www.investopedia.com/market-update-this-weeks-tech-earnings-could-be-a-validation-moment-for-the-ai-trade-12182053?.tsrc=rss",
-     "summary": "Earnings season continues this week with reports from air travel to consumer goods. The piece frames the week's tech earnings as a possible validation moment for the AI trade.",
+     "url": "https://www.fool.com/investing/2026/10/19/alphabet-q3-earnings-expectations/?.tsrc=rss",
+     "summary": "This piece looks ahead to Alphabet's third quarter earnings after the stock slipped following the last report. It says the company has a lot to prove during the market's show me phase of AI spending.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
+     "title": "Philip Morris (PM) Q3 Earnings Report Preview: What To Look For",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-pm-q3-earnings-073350442.html?.tsrc=rss",
+     "summary": "Philip Morris International (PM) reports earnings this Wednesday before the market opens. The article is a preview of what investors should look for in the results.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -71,25 +71,25 @@
      "title": "St. Louis Voter Guide: Missouri judges — Who's on the ballot and what to know about them",
      "source": "St. Louis Public Radio",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnM4Wi1yMmpVck1fdFhCRkVaQ0RjLVljeUJnZDlyUjNKMUVCblNqTXoyNl9Db0NDcXN2amM5M2NYQ1FuNHRVV0Jwb29BYk5SSFFEWkxaMFkzbTF1Z3BSRmdWWGxtNUQ3dlpudGUzWldBVF9iQ0M0VHN6VlNfam9ITVZ6RjdjaVpIM1hYbXh4aTlEYm9QeWpCTE13?oc=5",
-     "summary": "St. Louis Public Radio's voter guide to the Missouri judges on the ballot and what to know about them. Headline only.",
+     "summary": "Headline only, the article was not read. St. Louis Public Radio has a voter guide covering the Missouri judges on the ballot and what to know about them.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Why older homeowners need thousands to fix their homes in St. Louis",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZPZ243RUJ6Y3hMWlMzTmNHdDJVZ0hURzZWZEt0NmFTMmlOVXpoYXNCMXdfVTdZajVUblFuVjFKOWc1X1VtX0hFV2JuUFprWnlva3l2YlZRb2ZCalNCaWh3UXAtQzR5eDhERTYwWFJaS3NMRjR1MnJseDBlVzFCVXVMTE5tcVpMVGlKM0R2MGpkSVJUQ3d3anFZRUZidDRiN0E5Z2FDbw?oc=5",
-     "summary": "St. Louis Public Radio looks at why older homeowners in St. Louis need thousands of dollars to fix their homes. Headline only.",
+     "title": "Josh Hawley, Andrew Bailey join ad battle on Missouri's Amendment 3",
+     "source": "St. Louis Post-Dispatch",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXlNNkN5RDJoRGdvelNINUZvQk1oc2dNV3lOa1V0MlctSW5Gc2pDRHA4MEFpVzdjWWNzUUV0T3ZaWVJpcGlWaGt1Y1REX0VTbExJM21qbTBmdFQ4S3daclhnUkF4M0NKOHNKaEw0SXp3LVhCZ0l3Y1o4aEozNjctaU9reGFuZGkwV29CTzA5NWxLRU5mLWxZTnJaR0tJc0F3TVVBOWprNGs?oc=5",
+     "summary": "Headline only, the article was not read and the source is paywalled. The headline says Josh Hawley and Andrew Bailey have joined the advertising fight over Missouri's Amendment 3.",
      "basis": "headline only",
-     "paywalled": false
+     "paywalled": true
     },
     {
-     "title": "Why isn't Election Day a federal holiday?",
-     "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUl2YnZPelNZX2xlc0tHdl9jVGgyanY4WG92eTNwcHFmSGNRYWN1VGNqUVVUSms1UWNPcFhJRWx0dk5yaEJPd1lLODZnYU9XMGUtN08xUllQZE15MGpsNE5jdzBwekFfV1dsdGsyREFOMjVmcUhmNlprMThOczFjWmdTdmtScDZ3QlY5b21NV2o2M0tmYzJ3Zl9YNm9IQ2V2Zm1IM1ZCTnEzS1F5Q2VXMmhLUm9Fa1duUTBBWHA4RGN1eG9MMzZNNnhtS21nNzhObjVzUHFRY1FqVVJIc1E?oc=5",
-     "summary": "KSDK explains why Election Day is not a federal holiday. Headline only.",
+     "title": "Apartments avoid condemnation from St. Louis County. Owner promises fixes.",
+     "source": "St. Louis Post-Dispatch",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm1obDZGYlpWTnFUVDlJdER5eUFkZmdzUmRFSi1rM2xTYWRveTVFNVZwZ0w4UWpVX2NQZWNVcGlZR3JjRTBxci1CVmxzLUxlWVFjWUVJRHd5RUJaQXlsVjhPX282bjRUU1FPNm5DM2VaOTl0VmVJWmp2MkZ2WjNPREduUXQ2dllRZWJaenlrZGV0VTg3d3QxMGJFMUFhYkx1QjNOeW5DSEc?oc=5",
+     "summary": "Headline only, the article was not read and the source is paywalled. The headline says an apartment complex avoided condemnation by St. Louis County and the owner promises fixes.",
      "basis": "headline only",
-     "paywalled": false
+     "paywalled": true
     }
    ]
   },
@@ -98,27 +98,27 @@
    "title": "Interests",
    "items": [
     {
+     "title": "Emma Grace Hurley’s Marathon Debut Was Years in the Making. Here’s How to Mimic Her Training When Going for 26.2.",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/training/a74181988/emma-grace-hurley-debut-marathon-tips/",
+     "summary": "Runner's World profiles Emma Grace Hurley, the top American at the Chicago Marathon, on her marathon debut. The excerpt says her story shows why a slower build in training can lead to a faster marathon.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
      "title": "This Week In Running: October 19, 2026",
      "source": "iRunFar",
      "url": "https://www.irunfar.com/this-week-in-running-october-19-2026",
-     "summary": "Francesco Puppi won the Grand Trail des Templiers in 6:32, one second off Jon Albon's 2021 course record, and Martyna Mlynarczyk won the women's race in 7:41. Hugo Deck won the longest ever Diagonale des Fous in 22:54, and Ruth Croft won the women's race in 27:13, her third win among the sport's four best known 100 mile races.",
-     "basis": "full article",
-     "paywalled": false
-    },
-    {
-     "title": "Training for a Half Marathon? Coaches Say to Avoid These 7 Mistakes",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74181520/half-marathon-training-mistakes-tips/",
-     "summary": "Coaches list 7 common half marathon training mistakes to fix now so you can race 13.1 stronger and smarter. I could only read the excerpt.",
+     "summary": "iRunFar's weekly trail and ultra recap for October 19, 2026, written by Justin Mock. The excerpt does not list the individual race results.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "How to Avoid Hitting the Wall in a Marathon",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74182067/amazing-runners-world-show-episode-137/",
-     "summary": "A Runner's World piece on why the dreaded bonk happens in a marathon and how smart fueling can help prevent it. Excerpt only.",
-     "basis": "excerpt",
+     "title": "'Happy to be in a uniform': Cards prospect Peete back on his speedy feet in Fall League",
+     "source": "MLB.com Cardinals",
+     "url": "https://www.mlb.com/cardinals/news/cardinals-prospect-tai-peete-providing-fireworks-in-fall-league",
+     "summary": "Headline only, the article was not read. The headline says Cardinals prospect Tai Peete is back on his speedy feet in the Fall League and happy to be in a uniform.",
+     "basis": "headline only",
      "paywalled": false
     }
    ]
