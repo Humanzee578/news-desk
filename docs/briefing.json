@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-20T11:26:05.013173+00:00",
- "data_generated": "2026-10-20T07:45:58.028554+00:00",
- "markets_note": "The snapshot shows the S&P 500 at 7690.73 (down 1.49%) and the Nasdaq at 26430.89 (down 2.99%), while the Dow is up 0.22%. The VIX is up about 10% to 18.55, the 10 year yield is 5.14%, and S&P futures are down 0.71%. One story I read the headline of describes a Nasdaq led relief rally ahead of key earnings, which does not match the snapshot's tech selloff.",
+ "generated": "2026-10-20T22:55:43.631163+00:00",
+ "data_generated": "2026-10-20T21:44:44.730881+00:00",
+ "markets_note": "The snapshot shows the S&P 500 down 1.19% and the Nasdaq down 2.87%, while the Dow gained 1.6%, with the 10 year yield at 5.12% and the VIX at 17.31. An AP headline says stocks rose on strong profits and lower oil prices, which does not match the snapshot, so the timing of the numbers may differ.",
  "sections": [
   {
    "id": "legal",
@@ -11,25 +11,25 @@
      "title": "A Repair Estimate Is Not Necessarily a Notice of Bad Faith in Louisiana",
      "source": "Insurance Journal",
      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/19/889580.htm",
-     "summary": "This is a Louisiana case, so it is persuasive only in Missouri. The article asks whether a contractor's repair estimate, sent after a hurricane and far higher than what the insurer paid, starts the clock for the insurer to fix its payment before bad faith penalties apply. The insured sued after sixty days passed and sought those penalties. The excerpt does not give the answer, so the full article is worth a read.",
+     "summary": "A commentary asks whether a contractor's repair estimate, far higher than what a Louisiana property insurer paid after a hurricane, started the clock on the cure period for bad faith penalties. The insurer let sixty days pass and the insured then sued for penalties. This is Louisiana law, so it is persuasive only in Missouri, and only the opening of the piece was available, so the answer is not covered here.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "WR Berkley Reports Q3 Net Income Decrease, Operating Income Up",
+     "title": "California Group Off the Hook for Defamation Suit Brought by Maine Lobster Industry",
      "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/national/2026/10/20/889600.htm",
-     "summary": "W.R. Berkley reported third quarter 2026 net income down about 12.7% from a year ago, to about $446 million. Operating income was $456.5 million, which the report describes as up from the earlier period. This is one signal of how a large commercial insurer is doing.",
+     "url": "https://www.insurancejournal.com/news/east/2026/10/20/889644.htm",
+     "summary": "The First Circuit Court of Appeals dismissed a defamation lawsuit brought by Maine lobster interests against a California environmental group that urged the public to avoid eating North American lobster. This is a federal appeals decision from outside Missouri, so it is persuasive only here. Only the opening of the article was available, so the court's reasoning is not covered.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Washington Commissioner Fines Insurers, Producers $495,200",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/west/2026/10/20/888035.htm",
-     "summary": "Washington's insurance commissioner reported fines totaling $495,200 against insurance companies, agencies and producers for violations of insurance law between April and August. This is out of state regulatory activity, so it is persuasive only. The excerpt does not say what the two largest fines were for.",
-     "basis": "excerpt",
-     "paywalled": false
+     "title": "Judge grants Mizzou player TRO over NCAA eligibility rules",
+     "source": "Missouri Lawyers Weekly",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oaGtmWm82ZzEtYVVzNXQ3dVpxUEIzSEduYmxhTWxmVXdZZFZPaTNRekVQMVVHVDFsUU56R01yNGlyRVByQlpfUmhScmw4T3owaWJ2ck5MeVNhYW1MdUFSN2hYTzliQUVtR3lNR2tZcElzUEZ6NU1oVVpNSQ?oc=5",
+     "summary": "Per the headline, a judge granted a Mizzou player a temporary restraining order over NCAA eligibility rules. The source is paywalled and no excerpt was available, so this summary is the headline only and no other details are known.",
+     "basis": "headline only",
+     "paywalled": true
     }
    ]
   },
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
+     "title": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/tech-heavy-nasdaq-leads-wall-204243443.html?.tsrc=rss",
-     "summary": "The headline says the tech heavy Nasdaq led a relief rally on Wall Street ahead of key earnings, with an end of day update to the story. The excerpt was cut off, so no index levels are available from it.",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-salesforce-agrees-to-acquire-braze-for-usd5-66-billion-brze-stock-soars-52/?.tsrc=rss",
+     "summary": "On Oct. 20, 2026, the board of Braze unanimously backed a $47.50 per share offer from Salesforce, a deal valued at $5.66 billion. The headline says Braze stock soared 52% on the news.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
+     "title": "Should Earnings Beat Require Action From Wells Fargo (WFC) Investors?",
      "source": "Yahoo Finance",
-     "url": "https://www.fool.com/investing/2026/10/19/alphabet-q3-earnings-expectations/?.tsrc=rss",
-     "summary": "This piece looks ahead to Alphabet's third quarter earnings after the stock slipped following the last report. It says the company has a lot to prove during the market's show me phase of AI spending.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-require-action-wells-191012126.html?.tsrc=rss",
+     "summary": "Wells Fargo reported third quarter 2026 results with higher net interest income and net income than a year earlier, and it reaffirmed its full year net interest income guidance. The article asks whether the earnings beat should lead investors to act. Only the opening was available.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Philip Morris (PM) Q3 Earnings Report Preview: What To Look For",
+     "title": "Alphabet set for earnings beat as Cloud and AI chips take centre stage",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-pm-q3-earnings-073350442.html?.tsrc=rss",
-     "summary": "Philip Morris International (PM) reports earnings this Wednesday before the market opens. The article is a preview of what investors should look for in the results.",
+     "url": "https://www.proactiveinvestors.com/companies/news/1100415/alphabet-set-for-earnings-beat-as-cloud-and-ai-chips-take-centre-stage-1100415.html?.tsrc=rss",
+     "summary": "Bank of America expects Alphabet to deliver a modest earnings beat next week, with Google Cloud growth and rising demand for its custom AI chips offsetting signs of slowing Search growth. Only the opening of the article was available.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -68,26 +68,26 @@
    "title": "General",
    "items": [
     {
-     "title": "St. Louis Voter Guide: Missouri judges — Who's on the ballot and what to know about them",
+     "title": "State education officials say Normandy schools are financially stressed. District asks voters for help on Nov. ballot",
      "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnM4Wi1yMmpVck1fdFhCRkVaQ0RjLVljeUJnZDlyUjNKMUVCblNqTXoyNl9Db0NDcXN2amM5M2NYQ1FuNHRVV0Jwb29BYk5SSFFEWkxaMFkzbTF1Z3BSRmdWWGxtNUQ3dlpudGUzWldBVF9iQ0M0VHN6VlNfam9ITVZ6RjdjaVpIM1hYbXh4aTlEYm9QeWpCTE13?oc=5",
-     "summary": "Headline only, the article was not read. St. Louis Public Radio has a voter guide covering the Missouri judges on the ballot and what to know about them.",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZUMwRVJaMVNyOEdMMEtmZ3VDeU5QUjJxM2djcUZpMmFCa3N3eUgzQWpadktKUGtHVzNXclBUWW1VM1B1VEg4VnZVWDdpSzJXeFNaeldIcnFBYkVCalUtM2t6S1V2Tmt0TmIxN1NnVlBsTTctYUZvSnNZTWdsaGdoUVNOYTRXWmdfcEJpc0s5LUE1bGJzS3lqOTdwOHhld2dtUXZ0Y3hhdURfVmY0Y19rZGlJTVBUbFJhSTlONnphTkd0UElLX0dsRmRYSlRRRHdPdWVPLTVoQ3BiY2tkcDgxMThmN2gzeV93eHc?oc=5",
+     "summary": "St. Louis Public Radio reports that state education officials say the Normandy schools are financially stressed, and the district is asking voters for help on the November ballot. Only the headline was available, so no further details are known.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Josh Hawley, Andrew Bailey join ad battle on Missouri's Amendment 3",
+     "title": "Data centers could pay for residents’ solar panels under St. Louis bill",
      "source": "St. Louis Post-Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXlNNkN5RDJoRGdvelNINUZvQk1oc2dNV3lOa1V0MlctSW5Gc2pDRHA4MEFpVzdjWWNzUUV0T3ZaWVJpcGlWaGt1Y1REX0VTbExJM21qbTBmdFQ4S3daclhnUkF4M0NKOHNKaEw0SXp3LVhCZ0l3Y1o4aEozNjctaU9reGFuZGkwV29CTzA5NWxLRU5mLWxZTnJaR0tJc0F3TVVBOWprNGs?oc=5",
-     "summary": "Headline only, the article was not read and the source is paywalled. The headline says Josh Hawley and Andrew Bailey have joined the advertising fight over Missouri's Amendment 3.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZV9HSGpoWUdJY1A1cExUVjNJVUZHc09FS1pmM3k5VzljaUgxR1huQjhCWFJ1S0xTVVZfcVVraDJfZTl5ZzJQejgxcWtRa0pWcHJfLWtJOGJLeE1yR2EtQm5VNXNXb3JuWGVvRDFqblpRV2hJR2lQTHZBMkpWN3BjLWxHdkpqdHlpTUIwSk9yd2YxYVRrQWFQQnJPb0JTeGhNSlRBYlB6dnU?oc=5",
+     "summary": "The Post-Dispatch headline says a St. Louis bill would have data centers pay for residents' solar panels. The source is paywalled and only the headline was available, so no details are known.",
      "basis": "headline only",
      "paywalled": true
     },
     {
-     "title": "Apartments avoid condemnation from St. Louis County. Owner promises fixes.",
+     "title": "Missouri voters to consider 5 statewide propositions. Here's what they would do.",
      "source": "St. Louis Post-Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm1obDZGYlpWTnFUVDlJdER5eUFkZmdzUmRFSi1rM2xTYWRveTVFNVZwZ0w4UWpVX2NQZWNVcGlZR3JjRTBxci1CVmxzLUxlWVFjWUVJRHd5RUJaQXlsVjhPX282bjRUU1FPNm5DM2VaOTl0VmVJWmp2MkZ2WjNPREduUXQ2dllRZWJaenlrZGV0VTg3d3QxMGJFMUFhYkx1QjNOeW5DSEc?oc=5",
-     "summary": "Headline only, the article was not read and the source is paywalled. The headline says an apartment complex avoided condemnation by St. Louis County and the owner promises fixes.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBVS3NsZXdPVTd1TVhOVzNJanlFVjAwaFY0UDNSaUhnTDJuQ29GZUtyQ1Vac0dlXy1sTVZoNTl5SHFZVHNKQTJReU52YXlDbUMyX1paYTlyMlZvUXoycUp3LWFNR29MYXMtMHhhdEdLSmJYM3N2ZGRoazlDaVZWaHRqdFdmaWtEVVI0S0dZMlYxbDhYcGNZb1ZrYkVCSnRnbnFKMDJRMFo?oc=5",
+     "summary": "The Post-Dispatch headline says Missouri voters will consider five statewide propositions and explains what they would do. The source is paywalled and only the headline was available, so the propositions themselves are not described here.",
      "basis": "headline only",
      "paywalled": true
     }
@@ -98,27 +98,27 @@
    "title": "Interests",
    "items": [
     {
+     "title": "2 Runners Qualified for the Olympic Trials at This Marathon. Then They Learned Their Times Won’t Count.",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/news/a74191880/baystate-marathon-olympic-trials-sanction/",
+     "summary": "Runner's World reports that two runners qualified for the Olympic Trials at the Baystate Marathon, then learned their times won't count. The race was unsanctioned, so these Trials hopefuls will likely have to try again.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
      "title": "Emma Grace Hurley’s Marathon Debut Was Years in the Making. Here’s How to Mimic Her Training When Going for 26.2.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/training/a74181988/emma-grace-hurley-debut-marathon-tips/",
-     "summary": "Runner's World profiles Emma Grace Hurley, the top American at the Chicago Marathon, on her marathon debut. The excerpt says her story shows why a slower build in training can lead to a faster marathon.",
+     "summary": "Runner's World says Emma Grace Hurley, the top American at Chicago, had a marathon debut that was years in the making. The piece argues her slower build shows how patience can lead to a faster marathon.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "This Week In Running: October 19, 2026",
-     "source": "iRunFar",
-     "url": "https://www.irunfar.com/this-week-in-running-october-19-2026",
-     "summary": "iRunFar's weekly trail and ultra recap for October 19, 2026, written by Justin Mock. The excerpt does not list the individual race results.",
+     "title": "The Best Tune-Up Workouts to Help You Absolutely Crush This Year’s Turkey Trot",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/training/a74102777/turkey-trot-5k-workouts/",
+     "summary": "Runner's World shares two coach approved tune up workouts meant to build 5K speed and sharpen your finishing kick before this year's Turkey Trot.",
      "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "'Happy to be in a uniform': Cards prospect Peete back on his speedy feet in Fall League",
-     "source": "MLB.com Cardinals",
-     "url": "https://www.mlb.com/cardinals/news/cardinals-prospect-tai-peete-providing-fireworks-in-fall-league",
-     "summary": "Headline only, the article was not read. The headline says Cardinals prospect Tai Peete is back on his speedy feet in the Fall League and happy to be in a uniform.",
-     "basis": "headline only",
      "paywalled": false
     }
    ]
