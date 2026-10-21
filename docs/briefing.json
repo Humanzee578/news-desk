@@ -1,35 +1,35 @@
 {
- "generated": "2026-10-20T22:55:43.631163+00:00",
- "data_generated": "2026-10-20T21:44:44.730881+00:00",
- "markets_note": "The snapshot shows the S&P 500 down 1.19% and the Nasdaq down 2.87%, while the Dow gained 1.6%, with the 10 year yield at 5.12% and the VIX at 17.31. An AP headline says stocks rose on strong profits and lower oil prices, which does not match the snapshot, so the timing of the numbers may differ.",
+ "generated": "2026-10-21T11:27:19.250293+00:00",
+ "data_generated": "2026-10-21T10:20:56.432744+00:00",
+ "markets_note": "The snapshot shows a mixed session, with the S&P 500 down 1.19 percent, the Nasdaq down 2.87 percent and the Dow up 1.6 percent. The 10 year yield sits at 5.12 percent, and futures for both the S&P and Nasdaq are higher.",
  "sections": [
   {
    "id": "legal",
    "title": "Legal",
    "items": [
     {
-     "title": "A Repair Estimate Is Not Necessarily a Notice of Bad Faith in Louisiana",
+     "title": "WR Berkley CEO Shares Insights on AI Adoption During Q3 Call",
      "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/southcentral/2026/10/19/889580.htm",
-     "summary": "A commentary asks whether a contractor's repair estimate, far higher than what a Louisiana property insurer paid after a hurricane, started the clock on the cure period for bad faith penalties. The insurer let sixty days pass and the insured then sued for penalties. This is Louisiana law, so it is persuasive only in Missouri, and only the opening of the piece was available, so the answer is not covered here.",
+     "url": "https://www.insurancejournal.com/news/national/2026/10/21/889753.htm",
+     "summary": "The chairman and CEO of insurer W. R. Berkley used the company's third quarter call to talk with analysts about how the insurer is adopting new technology, including AI. Only the opening of the article was available, so details on specific plans were not read.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "California Group Off the Hook for Defamation Suit Brought by Maine Lobster Industry",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/east/2026/10/20/889644.htm",
-     "summary": "The First Circuit Court of Appeals dismissed a defamation lawsuit brought by Maine lobster interests against a California environmental group that urged the public to avoid eating North American lobster. This is a federal appeals decision from outside Missouri, so it is persuasive only here. Only the opening of the article was available, so the court's reasoning is not covered.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "Judge grants Mizzou player TRO over NCAA eligibility rules",
-     "source": "Missouri Lawyers Weekly",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oaGtmWm82ZzEtYVVzNXQ3dVpxUEIzSEduYmxhTWxmVXdZZFZPaTNRekVQMVVHVDFsUU56R01yNGlyRVByQlpfUmhScmw4T3owaWJ2ck5MeVNhYW1MdUFSN2hYTzliQUVtR3lNR2tZcElzUEZ6NU1oVVpNSQ?oc=5",
-     "summary": "Per the headline, a judge granted a Mizzou player a temporary restraining order over NCAA eligibility rules. The source is paywalled and no excerpt was available, so this summary is the headline only and no other details are known.",
+     "title": "Getty Images files for US bankruptcy, advances restructuring plan",
+     "source": "Reuters Legal",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
+     "summary": "Headline only, the full text was not available. The headline reports that Getty Images filed for US bankruptcy and is advancing a restructuring plan.",
      "basis": "headline only",
-     "paywalled": true
+     "paywalled": false
+    },
+    {
+     "title": "Toyota to recall about 105,800 US vehicles over fire risk, NHTSA says",
+     "source": "Reuters Legal",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3?oc=5",
+     "summary": "Headline only, the full text was not available. The headline reports that Toyota will recall about 105,800 US vehicles over a fire risk, according to NHTSA, which can matter for product liability exposure.",
+     "basis": "headline only",
+     "paywalled": false
     }
    ]
   },
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
+     "title": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
      "source": "Yahoo Finance",
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-salesforce-agrees-to-acquire-braze-for-usd5-66-billion-brze-stock-soars-52/?.tsrc=rss",
-     "summary": "On Oct. 20, 2026, the board of Braze unanimously backed a $47.50 per share offer from Salesforce, a deal valued at $5.66 billion. The headline says Braze stock soared 52% on the news.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-jim-cramer-bank-094622063.html?.tsrc=rss",
+     "summary": "Goldman Sachs recently reported third quarter results that beat estimates. The stock ranks fifth on a list of top common stock picks of billionaire Ken Fisher and Jim Cramer, and the piece asks whether it is still a buy after earnings.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Should Earnings Beat Require Action From Wells Fargo (WFC) Investors?",
+     "title": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-require-action-wells-191012126.html?.tsrc=rss",
-     "summary": "Wells Fargo reported third quarter 2026 results with higher net interest income and net income than a year earlier, and it reaffirmed its full year net interest income guidance. The article asks whether the earnings beat should lead investors to act. Only the opening was available.",
+     "url": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
+     "summary": "IBM is set to report third quarter earnings after the closing bell on Wednesday. The article frames the report as a chance for the company to change how investors see it.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Alphabet set for earnings beat as Cloud and AI chips take centre stage",
+     "title": "CRM Stock In Focus: Jefferies Says Salesforce’s Braze Deal Could Spark More Software Takeovers",
      "source": "Yahoo Finance",
-     "url": "https://www.proactiveinvestors.com/companies/news/1100415/alphabet-set-for-earnings-beat-as-cloud-and-ai-chips-take-centre-stage-1100415.html?.tsrc=rss",
-     "summary": "Bank of America expects Alphabet to deliver a modest earnings beat next week, with Google Cloud growth and rising demand for its custom AI chips offsetting signs of slowing Search growth. Only the opening of the article was available.",
+     "url": "https://stocktwits.com/news-articles/markets/equity/crm-stock-in-focus-jefferies-says-salesforce-s-braze-deal-could-spark-more-software-takeovers/cZxtMp4RBHM?.tsrc=rss",
+     "summary": "Jefferies says Salesforce's $5.66 billion Braze deal could encourage more software takeovers, improve its marketing abilities and fuel speculation about a Klaviyo deal.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -68,28 +68,28 @@
    "title": "General",
    "items": [
     {
-     "title": "State education officials say Normandy schools are financially stressed. District asks voters for help on Nov. ballot",
+     "title": "St. Louis lawyers won't defend the jail staff accused of neglecting a dying detainee",
      "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZUMwRVJaMVNyOEdMMEtmZ3VDeU5QUjJxM2djcUZpMmFCa3N3eUgzQWpadktKUGtHVzNXclBUWW1VM1B1VEg4VnZVWDdpSzJXeFNaeldIcnFBYkVCalUtM2t6S1V2Tmt0TmIxN1NnVlBsTTctYUZvSnNZTWdsaGdoUVNOYTRXWmdfcEJpc0s5LUE1bGJzS3lqOTdwOHhld2dtUXZ0Y3hhdURfVmY0Y19rZGlJTVBUbFJhSTlONnphTkd0UElLX0dsRmRYSlRRRHdPdWVPLTVoQ3BiY2tkcDgxMThmN2gzeV93eHc?oc=5",
-     "summary": "St. Louis Public Radio reports that state education officials say the Normandy schools are financially stressed, and the district is asking voters for help on the November ballot. Only the headline was available, so no further details are known.",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjFoM1hOWV9vNmFnSjAtTm9uM25WU3k2NzlxUmt3b1NxVGNmQVV4ODh4NnJYVTRLLU1hTVd2VVZ4NXlrTl84ZjdVQ0txTnRwT1FmLS1RMlhRaEY4al81cXBBVkNFWkxZLUxhUFBLaVZ6c0V1LVVlclk0LW93WFB2b0ZkelNjSG9EenRUeG4zeTlYbE9NTU4zbTltNVFtMUxHdXRN?oc=5",
+     "summary": "Headline only, the full text was not available. The headline reports that St. Louis lawyers will not defend the jail staff accused of neglecting a dying detainee.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Data centers could pay for residents’ solar panels under St. Louis bill",
-     "source": "St. Louis Post-Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZV9HSGpoWUdJY1A1cExUVjNJVUZHc09FS1pmM3k5VzljaUgxR1huQjhCWFJ1S0xTVVZfcVVraDJfZTl5ZzJQejgxcWtRa0pWcHJfLWtJOGJLeE1yR2EtQm5VNXNXb3JuWGVvRDFqblpRV2hJR2lQTHZBMkpWN3BjLWxHdkpqdHlpTUIwSk9yd2YxYVRrQWFQQnJPb0JTeGhNSlRBYlB6dnU?oc=5",
-     "summary": "The St. Louis Post Dispatch headline says a St. Louis bill would have data centers pay for residents' solar panels. The source is paywalled and only the headline was available, so no details are known.",
+     "title": "Tenants at Northern Village Apartments aim to hold landlord accountable for poor living conditions",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRGE0Tl9SWVRQbnE4Z091UG0zQXhuLTdvNnB3WDc4aDJSclg0VE1tYkJYUHRGYjV3ZzgxY2dnN2ZzN1dNVjIwSm5MQl9rZENINnVlQkk1ME5VQ21iYXN6WHQwdUpNcjJqa2dJVlZKZW0wMEdhR3d3TGxhb210NGNfUFJ6eUVTYU44QnhybjBWTy02ektZWC1OajktUTZQNVdxdmE0c3ZNdkd6dm1ZMy1RXzRWeDB0MTlwbUFzR083MXFvNjhCMURNaEl2RDkteUhOaFh0a3NyOXJ6dWJjSUY5ME5n?oc=5",
+     "summary": "Headline only, the full text was not available. The headline reports that tenants at Northern Village Apartments aim to hold their landlord accountable for poor living conditions.",
      "basis": "headline only",
-     "paywalled": true
+     "paywalled": false
     },
     {
-     "title": "Missouri voters to consider 5 statewide propositions. Here's what they would do.",
-     "source": "St. Louis Post-Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBVS3NsZXdPVTd1TVhOVzNJanlFVjAwaFY0UDNSaUhnTDJuQ29GZUtyQ1Vac0dlXy1sTVZoNTl5SHFZVHNKQTJReU52YXlDbUMyX1paYTlyMlZvUXoycUp3LWFNR29MYXMtMHhhdEdLSmJYM3N2ZGRoazlDaVZWaHRqdFdmaWtEVVI0S0dZMlYxbDhYcGNZb1ZrYkVCSnRnbnFKMDJRMFo?oc=5",
-     "summary": "The St. Louis Post Dispatch headline says Missouri voters will consider five statewide propositions and explains what they would do. The source is paywalled and only the headline was available, so the propositions themselves are not described here.",
+     "title": "Man in his 70s arrested for helping St. Louis jail detainee escape",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHk5OXI4WGdKN0JmNFZpNEZfc2FoWW12a2hOZ0tTSGxwYXVmd1FYMjhOT3gzd182dDMtN1FESkZwQTgzWERpc0RfeEdma3l5TWg4MlhRRmxhYm9nXzFlWk5IYjhZRGlnQmFrN1RzXzJldTlKc3pUTDE2NlBfQk1WeW1YWnRWMW56ZXpCcFU2c2lZQnc1cW5iMDNDQWFnczR6UFo0TndDNDNoY051c2Rv?oc=5",
+     "summary": "Headline only, the full text was not available. The headline reports that a man in his 70s was arrested for helping a St. Louis jail detainee escape.",
      "basis": "headline only",
-     "paywalled": true
+     "paywalled": false
     }
    ]
   },
@@ -101,15 +101,7 @@
      "title": "2 Runners Qualified for the Olympic Trials at This Marathon. Then They Learned Their Times Won’t Count.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/news/a74191880/baystate-marathon-olympic-trials-sanction/",
-     "summary": "Runner's World reports that two runners qualified for the Olympic Trials at the Baystate Marathon, then learned their times won't count. The race was unsanctioned, so these Trials hopefuls will likely have to try again.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "Emma Grace Hurley’s Marathon Debut Was Years in the Making. Here’s How to Mimic Her Training When Going for 26.2.",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74181988/emma-grace-hurley-debut-marathon-tips/",
-     "summary": "Runner's World says Emma Grace Hurley, the top American at Chicago, had a marathon debut that was years in the making. The piece argues her slower build shows how patience can lead to a faster marathon.",
+     "summary": "Two runners qualified for the Olympic Trials at the Baystate Marathon, then learned their times will not count. The race was unsanctioned, so the Trials hopefuls will likely have to try again.",
      "basis": "excerpt",
      "paywalled": false
     },
@@ -117,7 +109,15 @@
      "title": "The Best Tune-Up Workouts to Help You Absolutely Crush This Year’s Turkey Trot",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/training/a74102777/turkey-trot-5k-workouts/",
-     "summary": "Runner's World shares two coach approved tune up workouts meant to build 5K speed and sharpen your finishing kick before this year's Turkey Trot.",
+     "summary": "The piece offers two coach approved tune up workouts to build 5K speed and sharpen your finishing kick ahead of this year's Turkey Trot.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
+     "title": "What It Means to Be Great",
+     "source": "iRunFar",
+     "url": "https://www.irunfar.com/what-it-means-to-be-great",
+     "summary": "An iRunFar essay by Sabrina Little on what it means to be great, using the ideas of Wendell Berry on the real work of planet saving.",
      "basis": "excerpt",
      "paywalled": false
     }
