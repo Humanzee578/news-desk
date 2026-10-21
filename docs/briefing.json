@@ -1,35 +1,35 @@
 {
- "generated": "2026-10-21T11:27:19.250293+00:00",
- "data_generated": "2026-10-21T10:20:56.432744+00:00",
- "markets_note": "The snapshot shows a mixed session, with the S&P 500 down 1.19 percent, the Nasdaq down 2.87 percent and the Dow up 1.6 percent. The 10 year yield sits at 5.12 percent, and futures for both the S&P and Nasdaq are higher.",
+ "generated": "2026-10-21T22:55:59.607122+00:00",
+ "data_generated": "2026-10-21T22:30:29.403630+00:00",
+ "markets_note": "The snapshot shows the S&P 500 up 0.5 percent, the Dow up 2.39 percent and the Nasdaq nearly flat, with the 10 year yield at 5.15 and the VIX at 16.68. Earnings drove the headlines, with IBM and Meta both beating Wall Street estimates.",
  "sections": [
   {
    "id": "legal",
    "title": "Legal",
    "items": [
     {
-     "title": "WR Berkley CEO Shares Insights on AI Adoption During Q3 Call",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/national/2026/10/21/889753.htm",
-     "summary": "The chairman and CEO of insurer W. R. Berkley used the company's third quarter call to talk with analysts about how the insurer is adopting new technology, including AI. Only the opening of the article was available, so details on specific plans were not read.",
+     "title": "Missouri media organizations sue highway patrol over redacted crash reports",
+     "source": "Missouri Independent",
+     "url": "https://missouriindependent.com/2026/10/21/missouri-media-organizations-sue-highway-patrol-over-redacted-crash-reports/",
+     "summary": "Four media organizations, including the Missouri Broadcasters Association and the Missouri Press Association, have sued the Missouri State Highway Patrol. They claim the patrol's crash reports are being released with redactions. The excerpt available for this briefing was cut off, so the full claims were not read.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Getty Images files for US bankruptcy, advances restructuring plan",
-     "source": "Reuters Legal",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
-     "summary": "Headline only, the full text was not available. The headline reports that Getty Images filed for US bankruptcy and is advancing a restructuring plan.",
-     "basis": "headline only",
+     "title": "Truck Overturns in Kansas City, Spilling Cattle Onto Streets",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/midwest/2026/10/21/889865.htm",
+     "summary": "A semitrailer plunged off a highway overpass in downtown Kansas City, Missouri, early Sunday and landed on a car, spilling dozens of cattle onto a street. Some roads were shut down. The excerpt available for this briefing was cut off, so injuries and cause were not read.",
+     "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Toyota to recall about 105,800 US vehicles over fire risk, NHTSA says",
-     "source": "Reuters Legal",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3?oc=5",
-     "summary": "Headline only, the full text was not available. The headline reports that Toyota will recall about 105,800 US vehicles over a fire risk, according to NHTSA, which can matter for product liability exposure.",
+     "title": "Missouri Supreme Court disbars Columbia attorney over missed court appearances",
+     "source": "Missouri Lawyers Weekly",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXcxNVZVYU44dnEwSWJ5cmJlN01NMEFaTVBTSmxWQVljeVYxeGVFT2lvaF9fZHNqblYxdHlVZ0stYU44UDVTOGZBN1VrQ2pVLUtTbXFGU24tR3NCc2phajNGdlVyRDdNN2pFa3U4Z2l0LVVXYy13d0xlNXJRQ1pwSWdCOTFsUVFU?oc=5",
+     "summary": "Headline only, the article is paywalled and was not read. The headline says the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances.",
      "basis": "headline only",
-     "paywalled": false
+     "paywalled": true
     }
    ]
   },
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
+     "title": "Stock Market Today: Nasdaq Leads Dow With Meta Earnings Ahead; ExxonMobil Near New High (Live Coverage)",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-jim-cramer-bank-094622063.html?.tsrc=rss",
-     "summary": "Goldman Sachs recently reported third quarter results that beat estimates. The stock ranks fifth on a list of top common stock picks of billionaire Ken Fisher and Jim Cramer, and the piece asks whether it is still a buy after earnings.",
+     "url": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+     "summary": "This live market coverage says the Nasdaq rallied Wednesday as SpaceX stock surged on earnings, with Meta Platforms and Tesla set to report after the close. The headline also notes ExxonMobil near a new high. Only the excerpt was read.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
+     "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/m/a0d7d835-5df2-3366-bdd4-4acf3f300a8f/ibm-has-a-chance-to-rewrite.html?.tsrc=rss",
-     "summary": "IBM is set to report third quarter earnings after the closing bell on Wednesday. The article frames the report as a chance for the company to change how investors see it.",
+     "url": "https://finance.yahoo.com/m/b5819104-1f56-306b-99d6-3c2a65cd182f/ibm-stock-jumps-after-q3.html?.tsrc=rss",
+     "summary": "IBM stock jumped after the company reported third quarter results that beat Wall Street expectations. Only the excerpt was read, so figures were not checked.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "CRM Stock In Focus: Jefferies Says Salesforce’s Braze Deal Could Spark More Software Takeovers",
+     "title": "Why Meta didn't offer 2027 revenue guidance: Q3 earnings takeaways",
      "source": "Yahoo Finance",
-     "url": "https://stocktwits.com/news-articles/markets/equity/crm-stock-in-focus-jefferies-says-salesforce-s-braze-deal-could-spark-more-software-takeovers/cZxtMp4RBHM?.tsrc=rss",
-     "summary": "Jefferies says Salesforce's $5.66 billion Braze deal could encourage more software takeovers, improve its marketing abilities and fuel speculation about a Klaviyo deal.",
+     "url": "https://finance.yahoo.com/video/why-meta-didnt-offer-2027-revenue-guidance-q3-earnings-takeaways-204412297.html?.tsrc=rss",
+     "summary": "Meta reported third quarter revenue of $64.6 billion, above the $63.3 billion Wall Street expected, and earnings per share also beat estimates per the excerpt. The headline says the company did not offer 2027 revenue guidance. Only the excerpt was read.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -68,26 +68,26 @@
    "title": "General",
    "items": [
     {
-     "title": "St. Louis lawyers won't defend the jail staff accused of neglecting a dying detainee",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjFoM1hOWV9vNmFnSjAtTm9uM25WU3k2NzlxUmt3b1NxVGNmQVV4ODh4NnJYVTRLLU1hTVd2VVZ4NXlrTl84ZjdVQ0txTnRwT1FmLS1RMlhRaEY4al81cXBBVkNFWkxZLUxhUFBLaVZ6c0V1LVVlclk0LW93WFB2b0ZkelNjSG9EenRUeG4zeTlYbE9NTU4zbTltNVFtMUxHdXRN?oc=5",
-     "summary": "Headline only, the full text was not available. The headline reports that St. Louis lawyers will not defend the jail staff accused of neglecting a dying detainee.",
+     "title": "St. Louis' train quiet zones get 100% of needed upgrades, officials say",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDVmaGdFVnhVcXd0dDl0bXJVVzVyU0VpYnp3d2FHYUpvbGtSTWhObWtrVzJTZHVpR2hGSDNuYm5CQmctbXk1WGcxVGdUZ1djQlJPa2x0YlhFTEFndEVIZTRFYzFoVzRxTU1JaF82bHNnWXhSQjh3ZWJ0Q0JzU1BpWmlkaS03Zjk2dG9VandWYk0yTEl0VXNNXzBZODhodldBVzluSmlsLU5xUjhnT0VjckVGa2ZVci1RTlpENlpsM05HODZfczlZVjNlMGk4VnpEUHdFMzFxVFRIV2g3QVRmd1NCM1hmZ2V3bHh3OXp3WlYzaUNadkNNZHB3?oc=5",
+     "summary": "Headline only, the article was not read. The headline says St. Louis train quiet zones have received all of the upgrades needed, according to officials.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Tenants at Northern Village Apartments aim to hold landlord accountable for poor living conditions",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRGE0Tl9SWVRQbnE4Z091UG0zQXhuLTdvNnB3WDc4aDJSclg0VE1tYkJYUHRGYjV3ZzgxY2dnN2ZzN1dNVjIwSm5MQl9rZENINnVlQkk1ME5VQ21iYXN6WHQwdUpNcjJqa2dJVlZKZW0wMEdhR3d3TGxhb210NGNfUFJ6eUVTYU44QnhybjBWTy02ektZWC1OajktUTZQNVdxdmE0c3ZNdkd6dm1ZMy1RXzRWeDB0MTlwbUFzR083MXFvNjhCMURNaEl2RDkteUhOaFh0a3NyOXJ6dWJjSUY5ME5n?oc=5",
-     "summary": "Headline only, the full text was not available. The headline reports that tenants at Northern Village Apartments aim to hold their landlord accountable for poor living conditions.",
+     "title": "St. Louis County Executive Sam Page wants regulation on data center sound",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObi1rdHIzb3ZDbWZ0TzdwR2RxMjhTMGo0S0pMcVU2Q3RyVi1nTnZXQ3IzeUJnSkxpMFA2cHFDRE5LRWMtUUxsRUJTRlEwTkNrYXc2UTFCdWMxMXByZkNEMlBmSkp0VXIzVzVOVWdyMzhEYWxIYTRNT3FkNnAzOTNzUzlTQlFVajFlU19lUVhiZ2hTdEZjZU9XajZwYUFCUllMQmwyR3BfRGJpcDlKOS1LOEQxQS0tOVNNSDljNDBmZE0takQ0ZXBmZzl6ZWJMN2hOaE1Ld0toUV8zbUZp?oc=5",
+     "summary": "Headline only, the article was not read. The headline says St. Louis County Executive Sam Page wants regulation of data center sound.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Man in his 70s arrested for helping St. Louis jail detainee escape",
+     "title": "St. Louis library wins Missouri Library of the Year for its May 2025 tornado response",
      "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHk5OXI4WGdKN0JmNFZpNEZfc2FoWW12a2hOZ0tTSGxwYXVmd1FYMjhOT3gzd182dDMtN1FESkZwQTgzWERpc0RfeEdma3l5TWg4MlhRRmxhYm9nXzFlWk5IYjhZRGlnQmFrN1RzXzJldTlKc3pUTDE2NlBfQk1WeW1YWnRWMW56ZXpCcFU2c2lZQnc1cW5iMDNDQWFnczR6UFo0TndDNDNoY051c2Rv?oc=5",
-     "summary": "Headline only, the full text was not available. The headline reports that a man in his 70s was arrested for helping a St. Louis jail detainee escape.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVFuVHBJeVVsSzljLVdqYzFiN1ZKSUFldXgtR3A1LWcweV85SEhjRXRJdmlQbFlUSk9YM3lnNFhXUHpSY1N5bS1CZXN4TzB2SjVHU3R5M2hvU0xCNGtnN2Ftd1FQQ0NuSGQ3NU9yOTNoQ1l2TEVOY3ZtLWZ5V29Bcm44NTI5TXR5UVcyN1VQS0FtMXRRaWg1Mm1tSnd3M3FVeDNVV3F6Mms?oc=5",
+     "summary": "Headline only, the article was not read. The headline says a St. Louis library won Missouri Library of the Year for its response to the May 2025 tornado.",
      "basis": "headline only",
      "paywalled": false
     }
@@ -98,27 +98,27 @@
    "title": "Interests",
    "items": [
     {
+     "title": "An Elite Runner Was Supposed to Run the Detroit Marathon. She Died the Night Before the Race.",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/news/a74205863/grace-nolan-detroit-marathon-death/",
+     "summary": "Grace Nolan, 25, was supposed to run the Detroit Marathon but died the night before the race. She had finished fourth in her marathon debut while juggling her first semester of medical school. Only the excerpt was read.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
      "title": "2 Runners Qualified for the Olympic Trials at This Marathon. Then They Learned Their Times Won’t Count.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/news/a74191880/baystate-marathon-olympic-trials-sanction/",
-     "summary": "Two runners qualified for the Olympic Trials at the Baystate Marathon, then learned their times will not count. The race was unsanctioned, so the Trials hopefuls will likely have to try again.",
+     "summary": "Two runners hit the Olympic Trials qualifying standard at the Baystate Marathon but learned their times will not count. The race was unsanctioned, so they will likely have to try again. Only the excerpt was read.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "The Best Tune-Up Workouts to Help You Absolutely Crush This Year’s Turkey Trot",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74102777/turkey-trot-5k-workouts/",
-     "summary": "The piece offers two coach approved tune up workouts to build 5K speed and sharpen your finishing kick ahead of this year's Turkey Trot.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "What It Means to Be Great",
-     "source": "iRunFar",
-     "url": "https://www.irunfar.com/what-it-means-to-be-great",
-     "summary": "An iRunFar essay by Sabrina Little on what it means to be great, using the ideas of Wendell Berry on the real work of planet saving.",
-     "basis": "excerpt",
+     "title": "Here are MLB's 7 best 17-year-old prospects",
+     "source": "MLB.com Cardinals",
+     "url": "https://www.mlb.com/cardinals/news/these-are-the-best-17-year-old-mlb-prospects",
+     "summary": "Headline only, the article was not read. The headline says MLB.com ranked the seven best 17 year old prospects in baseball, posted on its Cardinals news page.",
+     "basis": "headline only",
      "paywalled": false
     }
    ]
