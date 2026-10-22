@@ -1,35 +1,35 @@
 {
- "generated": "2026-10-21T22:55:59.607122+00:00",
- "data_generated": "2026-10-21T22:30:29.403630+00:00",
- "markets_note": "The snapshot shows the S&P 500 up 0.5 percent, the Dow up 2.39 percent and the Nasdaq nearly flat, with the 10 year yield at 5.15 and the VIX at 16.68. Earnings drove the headlines, with IBM and Meta both beating Wall Street estimates.",
+ "generated": "2026-10-22T11:25:30.086812+00:00",
+ "data_generated": "2026-10-22T06:10:53.665346+00:00",
+ "markets_note": "The snapshot shows the S&P 500 at 7757.17, up 0.5%, the Dow at 52856.09, up 2.39%, and the Nasdaq nearly flat at 26702.86, up 0.04%. The VIX sat at 16.68 and the 10 year yield at 5.15%, while stories point to Meta and IBM earnings as the main focus.",
  "sections": [
   {
    "id": "legal",
    "title": "Legal",
    "items": [
     {
-     "title": "Missouri media organizations sue highway patrol over redacted crash reports",
-     "source": "Missouri Independent",
-     "url": "https://missouriindependent.com/2026/10/21/missouri-media-organizations-sue-highway-patrol-over-redacted-crash-reports/",
-     "summary": "Four media organizations, including the Missouri Broadcasters Association and the Missouri Press Association, have sued the Missouri State Highway Patrol. They claim the patrol's crash reports are being released with redactions. The excerpt available for this briefing was cut off, so the full claims were not read.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "Truck Overturns in Kansas City, Spilling Cattle Onto Streets",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/midwest/2026/10/21/889865.htm",
-     "summary": "A semitrailer plunged off a highway overpass in downtown Kansas City, Missouri, early Sunday and landed on a car, spilling dozens of cattle onto a street. Some roads were shut down. The excerpt available for this briefing was cut off, so injuries and cause were not read.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
      "title": "Missouri Supreme Court disbars Columbia attorney over missed court appearances",
      "source": "Missouri Lawyers Weekly",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXcxNVZVYU44dnEwSWJ5cmJlN01NMEFaTVBTSmxWQVljeVYxeGVFT2lvaF9fZHNqblYxdHlVZ0stYU44UDVTOGZBN1VrQ2pVLUtTbXFGU24tR3NCc2phajNGdlVyRDdNN2pFa3U4Z2l0LVVXYy13d0xlNXJRQ1pwSWdCOTFsUVFU?oc=5",
-     "summary": "Headline only, the article is paywalled and was not read. The headline says the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances.",
+     "summary": "Missouri Lawyers Weekly reports that the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances. Only the headline was available, so no further details are known. The article is behind a paywall.",
      "basis": "headline only",
      "paywalled": true
+    },
+    {
+     "title": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/southeast/2026/10/22/889892.htm",
+     "summary": "The Tennessee Supreme Court rejected a rule change that would have let private equity companies own law firms. Insurance groups had warned that this kind of ownership could lead to more litigation. This is out of state, so it is persuasive only and does not bind Missouri courts.",
+     "basis": "excerpt",
+     "paywalled": false
+    },
+    {
+     "title": "The Cost of Losing Your Cool: Tally the Losses of a Supermarket Cyberattack",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/national/2026/10/22/889881.htm",
+     "summary": "This piece looks at the insurance and financial effects of a reported cyberattack that interfered with refrigeration at supermarkets in France. Only the opening of the article was available, so the specific losses are not known. It is a foreign event and a general look at cyber loss exposure.",
+     "basis": "excerpt",
+     "paywalled": false
     }
    ]
   },
@@ -38,18 +38,18 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Stock Market Today: Nasdaq Leads Dow With Meta Earnings Ahead; ExxonMobil Near New High (Live Coverage)",
+     "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/m/3cb9e8ae-4da0-30bd-9cec-6a0531abd9df/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-     "summary": "This live market coverage says the Nasdaq rallied Wednesday as SpaceX stock surged on earnings, with Meta Platforms and Tesla set to report after the close. The headline also notes ExxonMobil near a new high. Only the excerpt was read.",
+     "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR?.tsrc=rss",
+     "summary": "The S&P 500 and Nasdaq gained, powered by Meta and Tesla, with IBM also in focus. Meta reported earnings that beat expectations while narrowing its capital spending plans.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations",
+     "title": "IBM Stock Heads For Best Week Since June: CEO Says ‘Q2 Softness Was Timing Rather Than Demand’ After Q3 Beat, Sees Infrastructure Momentum",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/m/b5819104-1f56-306b-99d6-3c2a65cd182f/ibm-stock-jumps-after-q3.html?.tsrc=rss",
-     "summary": "IBM stock jumped after the company reported third quarter results that beat Wall Street expectations. Only the excerpt was read, so figures were not checked.",
+     "url": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-heads-for-best-week-since-june-ceo-q2-softness-timing-q3-beat-infrastructure-momentum/cZxvHfTRBwe?.tsrc=rss",
+     "summary": "IBM stock is headed for its best week since June after a third quarter earnings beat. The CEO said the second quarter softness was timing rather than weak demand, and he pointed to software growth and rising infrastructure demand.",
      "basis": "excerpt",
      "paywalled": false
     },
@@ -57,7 +57,7 @@
      "title": "Why Meta didn't offer 2027 revenue guidance: Q3 earnings takeaways",
      "source": "Yahoo Finance",
      "url": "https://finance.yahoo.com/video/why-meta-didnt-offer-2027-revenue-guidance-q3-earnings-takeaways-204412297.html?.tsrc=rss",
-     "summary": "Meta reported third quarter revenue of $64.6 billion, above the $63.3 billion Wall Street expected, and earnings per share also beat estimates per the excerpt. The headline says the company did not offer 2027 revenue guidance. Only the excerpt was read.",
+     "summary": "Meta posted third quarter revenue of $64.6 billion, above the $63.3 billion Wall Street expected. The headline notes the company did not offer 2027 revenue guidance, and only the opening of the piece was available.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -68,10 +68,10 @@
    "title": "General",
    "items": [
     {
-     "title": "St. Louis' train quiet zones get 100% of needed upgrades, officials say",
-     "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDVmaGdFVnhVcXd0dDl0bXJVVzVyU0VpYnp3d2FHYUpvbGtSTWhObWtrVzJTZHVpR2hGSDNuYm5CQmctbXk1WGcxVGdUZ1djQlJPa2x0YlhFTEFndEVIZTRFYzFoVzRxTU1JaF82bHNnWXhSQjh3ZWJ0Q0JzU1BpWmlkaS03Zjk2dG9VandWYk0yTEl0VXNNXzBZODhodldBVzluSmlsLU5xUjhnT0VjckVGa2ZVci1RTlpENlpsM05HODZfczlZVjNlMGk4VnpEUHdFMzFxVFRIV2g3QVRmd1NCM1hmZ2V3bHh3OXp3WlYzaUNadkNNZHB3?oc=5",
-     "summary": "Headline only, the article was not read. The headline says St. Louis train quiet zones have received all of the upgrades needed, according to officials.",
+     "title": "St. Louis police could get new reality TV show, promise it won’t be ‘Cops’",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ0d5REhkZEc3ak81X05pNmxQU253UXZyX3kyUl9tNnZTclVtdXRPNDh6SmpqNjRSeUkxVGdxaHJSamQwTjc2MVI2RlN0cXRkY0RJczNyYkpyM3NYV3dDRVdhbXg1TkpsOUJHZERRRUVBczRGZGxXRVNOWXUtYzg?oc=5",
+     "summary": "St. Louis Public Radio reports that St. Louis police could get a new reality TV show, and the headline says it is promised not to be like the show Cops. Only the headline was available, so no other details are known.",
      "basis": "headline only",
      "paywalled": false
     },
@@ -79,15 +79,15 @@
      "title": "St. Louis County Executive Sam Page wants regulation on data center sound",
      "source": "KSDK",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObi1rdHIzb3ZDbWZ0TzdwR2RxMjhTMGo0S0pMcVU2Q3RyVi1nTnZXQ3IzeUJnSkxpMFA2cHFDRE5LRWMtUUxsRUJTRlEwTkNrYXc2UTFCdWMxMXByZkNEMlBmSkp0VXIzVzVOVWdyMzhEYWxIYTRNT3FkNnAzOTNzUzlTQlFVajFlU19lUVhiZ2hTdEZjZU9XajZwYUFCUllMQmwyR3BfRGJpcDlKOS1LOEQxQS0tOVNNSDljNDBmZE0takQ0ZXBmZzl6ZWJMN2hOaE1Ld0toUV8zbUZp?oc=5",
-     "summary": "Headline only, the article was not read. The headline says St. Louis County Executive Sam Page wants regulation of data center sound.",
+     "summary": "KSDK reports that St. Louis County Executive Sam Page wants regulation of data center sound. Only the headline was available, so the details of any proposal are not known.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "St. Louis library wins Missouri Library of the Year for its May 2025 tornado response",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVFuVHBJeVVsSzljLVdqYzFiN1ZKSUFldXgtR3A1LWcweV85SEhjRXRJdmlQbFlUSk9YM3lnNFhXUHpSY1N5bS1CZXN4TzB2SjVHU3R5M2hvU0xCNGtnN2Ftd1FQQ0NuSGQ3NU9yOTNoQ1l2TEVOY3ZtLWZ5V29Bcm44NTI5TXR5UVcyN1VQS0FtMXRRaWg1Mm1tSnd3M3FVeDNVV3F6Mms?oc=5",
-     "summary": "Headline only, the article was not read. The headline says a St. Louis library won Missouri Library of the Year for its response to the May 2025 tornado.",
+     "title": "St. Louis' train quiet zones get 100% of needed upgrades, officials say",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDVmaGdFVnhVcXd0dDl0bXJVVzVyU0VpYnp3d2FHYUpvbGtSTWhObWtrVzJTZHVpR2hGSDNuYm5CQmctbXk1WGcxVGdUZ1djQlJPa2x0YlhFTEFndEVIZTRFYzFoVzRxTU1JaF82bHNnWXhSQjh3ZWJ0Q0JzU1BpWmlkaS03Zjk2dG9VandWYk0yTEl0VXNNXzBZODhodldBVzluSmlsLU5xUjhnT0VjckVGa2ZVci1RTlpENlpsM05HODZfczlZVjNlMGk4VnpEUHdFMzFxVFRIV2g3QVRmd1NCM1hmZ2V3bHh3OXp3WlYzaUNadkNNZHB3?oc=5",
+     "summary": "KSDK reports that officials say St. Louis train quiet zones have received 100% of the needed upgrades. Only the headline was available, so no further details are known.",
      "basis": "headline only",
      "paywalled": false
     }
@@ -101,24 +101,24 @@
      "title": "An Elite Runner Was Supposed to Run the Detroit Marathon. She Died the Night Before the Race.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/news/a74205863/grace-nolan-detroit-marathon-death/",
-     "summary": "Grace Nolan, 25, was supposed to run the Detroit Marathon but died the night before the race. She had finished fourth in her marathon debut while juggling her first semester of medical school. Only the excerpt was read.",
+     "summary": "Runner's World reports that Grace Nolan, 25, an elite runner who was set to run the Detroit Marathon, died the night before the race. She had finished fourth in her marathon debut while in her first semester of medical school.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "2 Runners Qualified for the Olympic Trials at This Marathon. Then They Learned Their Times Won’t Count.",
+     "title": "I Didn’t Run for a Month Before Boston—and Still Crossed the Marathon Finish Line. How Cross-Training Kept Me on Track for Race Day.",
      "source": "Runner's World",
-     "url": "https://www.runnersworld.com/news/a74191880/baystate-marathon-olympic-trials-sanction/",
-     "summary": "Two runners hit the Olympic Trials qualifying standard at the Baystate Marathon but learned their times will not count. The race was unsanctioned, so they will likely have to try again. Only the excerpt was read.",
+     "url": "https://www.runnersworld.com/training/a74123089/cross-training-for-race/",
+     "summary": "A runner tells how cross-training kept her on track for the Boston Marathon after a month without running. The article's advice is that, with a doctor's clearance, you can safely cross-train your way to your next starting line.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Here are MLB's 7 best 17-year-old prospects",
-     "source": "MLB.com Cardinals",
-     "url": "https://www.mlb.com/cardinals/news/these-are-the-best-17-year-old-mlb-prospects",
-     "summary": "Headline only, the article was not read. The headline says MLB.com ranked the seven best 17 year old prospects in baseball, posted on its Cardinals news page.",
-     "basis": "headline only",
+     "title": "Run/Walkers Can Do Speedwork Too. Here’s How Adding Intervals to Training Cut 10 Minutes Off My Half Marathon Time",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/training/a74184078/run-walk-speedwork/",
+     "summary": "A run and walk runner explains how adding intervals to training cut 10 minutes off a half marathon time. The piece is a guide to making speedwork feel less intimidating and more effective.",
+     "basis": "excerpt",
      "paywalled": false
     }
    ]
