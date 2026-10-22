@@ -1,35 +1,35 @@
 {
- "generated": "2026-10-22T11:25:30.086812+00:00",
- "data_generated": "2026-10-22T06:10:53.665346+00:00",
- "markets_note": "The snapshot shows the S&P 500 at 7757.17, up 0.5%, the Dow at 52856.09, up 2.39%, and the Nasdaq nearly flat at 26702.86, up 0.04%. The VIX sat at 16.68 and the 10 year yield at 5.15%, while stories point to Meta and IBM earnings as the main focus.",
+ "generated": "2026-10-22T22:55:32.716369+00:00",
+ "data_generated": "2026-10-22T20:37:38.265502+00:00",
+ "markets_note": "A mixed day: the S&P 500 fell about 1.0 percent and the Nasdaq fell about 2.6 percent, while the Dow gained about 1.3 percent. The 10 year Treasury yield eased to 4.95 percent and the VIX was near 19.",
  "sections": [
   {
    "id": "legal",
    "title": "Legal",
    "items": [
     {
+     "title": "NAIC: Top home insurers by premiums, market share in 2025",
+     "source": "PropertyCasualty360",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZDdVhEb2p6M2pQOWI1NmZ0Q1N5WDQ4emVHLVVFMzhHM2FyWkI5RlBjRmI3TkdNWUhBRjNmSkwxLUxkRWNKdENTOUY4RUoxeG5TaEtEcEszamNyUWhPbzNfSmNCOGVGak1yTmJRTmhtUjFTSmRTSzlEcklvOU9fLXdLNUxJejlwdWZjOFNMcjdMX1dLWjg3SkljM1NqU2JZZ0ZNTVFR?oc=5",
+     "summary": "PropertyCasualty360 reports on the NAIC list of top home insurers by premiums and market share for 2025. Only the headline was available, so no details on the rankings are included here.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
      "title": "Missouri Supreme Court disbars Columbia attorney over missed court appearances",
      "source": "Missouri Lawyers Weekly",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXcxNVZVYU44dnEwSWJ5cmJlN01NMEFaTVBTSmxWQVljeVYxeGVFT2lvaF9fZHNqblYxdHlVZ0stYU44UDVTOGZBN1VrQ2pVLUtTbXFGU24tR3NCc2phajNGdlVyRDdNN2pFa3U4Z2l0LVVXYy13d0xlNXJRQ1pwSWdCOTFsUVFU?oc=5",
-     "summary": "Missouri Lawyers Weekly reports that the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances. Only the headline was available, so no further details are known. The article is behind a paywall.",
+     "summary": "Missouri Lawyers Weekly reports that the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances. Only the headline was available, so no further details are included here.",
      "basis": "headline only",
      "paywalled": true
     },
     {
-     "title": "TN High Court Says ‘No’ to PE Ownership of Law Firms But Other Options Open",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/southeast/2026/10/22/889892.htm",
-     "summary": "The Tennessee Supreme Court rejected a rule change that would have let private equity companies own law firms. Insurance groups had warned that this kind of ownership could lead to more litigation. This is out of state, so it is persuasive only and does not bind Missouri courts.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "The Cost of Losing Your Cool: Tally the Losses of a Supermarket Cyberattack",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/national/2026/10/22/889881.htm",
-     "summary": "This piece looks at the insurance and financial effects of a reported cyberattack that interfered with refrigeration at supermarkets in France. Only the opening of the article was available, so the specific losses are not known. It is a foreign event and a general look at cyber loss exposure.",
-     "basis": "excerpt",
-     "paywalled": false
+     "title": "Employer-Employee-Discrimination-Dismissal-Failure to State a Claim",
+     "source": "Missouri Lawyers Weekly",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcldMTUJzZ0hJT19fS3pya3A3Y1l6VHRLNzNYaU1waGlBSExGVTBDZnVLS2hmRTlFLVRoRXdpTVNtWWVwZ1FJcXVQY1NKeVo2LXdtcFJjWXdHTWR0MXZjT3dtTV9YQy1yRkpwU1V3X2JXdFNIOWhTUGRFOXd1S0twdkZhSlg4WFNBck8zWVJJNGNDUnhDalk3SXRzQi1oelpBczJqSy1TbDktQQ?oc=5",
+     "summary": "Missouri Lawyers Weekly summarizes a ruling in an employer and employee discrimination matter that was dismissed for failure to state a claim. Only the headline was available, so the court and the reasoning are not known from this item.",
+     "basis": "headline only",
+     "paywalled": true
     }
    ]
   },
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+     "title": "Goldman Sachs has a new warning for the housing market for 2027",
      "source": "Yahoo Finance",
-     "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR?.tsrc=rss",
-     "summary": "The S&P 500 and Nasdaq gained, powered by Meta and Tesla, with IBM also in focus. Meta reported earnings that beat expectations while narrowing its capital spending plans.",
+     "url": "https://www.thestreet.com/real-estate/goldman-sachs-warning-housing-market-2027?.tsrc=rss",
+     "summary": "TheStreet says fall housing market data tells a consistent story and that Goldman Sachs, a watchlist ticker, has issued a forecast for what comes next, framed as a warning for 2027. The excerpt does not give the forecast numbers.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "IBM Stock Heads For Best Week Since June: CEO Says ‘Q2 Softness Was Timing Rather Than Demand’ After Q3 Beat, Sees Infrastructure Momentum",
+     "title": "Essential Properties Realty Trust Q3 Earnings Call Highlights",
      "source": "Yahoo Finance",
-     "url": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-heads-for-best-week-since-june-ceo-q2-softness-timing-q3-beat-infrastructure-momentum/cZxvHfTRBwe?.tsrc=rss",
-     "summary": "IBM stock is headed for its best week since June after a third quarter earnings beat. The CEO said the second quarter softness was timing rather than weak demand, and he pointed to software growth and rising infrastructure demand.",
+     "url": "https://www.marketbeat.com/instant-alerts/transcript-essential-properties-realty-trust-q3-earnings-call-highlights-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+     "summary": "Essential Properties Realty Trust raised its 2026 outlook and gave first guidance for 2027 after third quarter results. The company credited investment activity and portfolio occupancy, according to the excerpt.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Why Meta didn't offer 2027 revenue guidance: Q3 earnings takeaways",
+     "title": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/video/why-meta-didnt-offer-2027-revenue-guidance-q3-earnings-takeaways-204412297.html?.tsrc=rss",
-     "summary": "Meta posted third quarter revenue of $64.6 billion, above the $63.3 billion Wall Street expected. The headline notes the company did not offer 2027 revenue guidance, and only the opening of the piece was available.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/top-lodging-stocks-3q26-earnings-192143630.html?.tsrc=rss",
+     "summary": "Wells Fargo, a watchlist ticker, expects lodging stocks to beat third quarter revenue expectations as revenue per available room growth keeps running ahead of forecasts. The excerpt does not name the top picks.",
      "basis": "excerpt",
      "paywalled": false
     }
@@ -68,28 +68,28 @@
    "title": "General",
    "items": [
     {
-     "title": "St. Louis police could get new reality TV show, promise it won’t be ‘Cops’",
+     "title": "Missouri's top education official resigns amid A-F school rating controversy",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRG50ZkZQZVhHOExGLTRzUTJlMTRya1plYUpoUnNDSlFVRzBZVk1GRUNYTkxYMG9aLVEzSllqMWVXX2xBc1hwYVlUOFhGQjdmUWFIRF9sTkE0NzVaVmZWNHRhXzN0Rk5DM3lpS2JkeGFaWEZSbVdCWlE0Z25raGE3dlZhbmljVFk1ZUc2QjZSY0t3Z05ULXVkVWQyaWxiSF9BR1BlSTR3bW14RUJqMExGQ3Rnb1lFa0VsT1lBNzRfRzhYLWFEeW5vSExqd1pTZDBXSUYwTE0xOXM5bE42YjEwZFpQamJKdE9M?oc=5",
+     "summary": "KSDK reports that Missouri's top education official has resigned amid controversy over the state's school rating system. Only the headline was available, so the details are not included here.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "‘SLMPD heard you’: After pushback, St. Louis police back down from reality TV show idea",
      "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ0d5REhkZEc3ak81X05pNmxQU253UXZyX3kyUl9tNnZTclVtdXRPNDh6SmpqNjRSeUkxVGdxaHJSamQwTjc2MVI2RlN0cXRkY0RJczNyYkpyM3NYV3dDRVdhbXg1TkpsOUJHZERRRUVBczRGZGxXRVNOWXUtYzg?oc=5",
-     "summary": "St. Louis Public Radio reports that St. Louis police could get a new reality TV show, and the headline says it is promised not to be like the show Cops. Only the headline was available, so no other details are known.",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3ZWNkdYbXc0d1ppdG92ZTlzaW9wenRYT1ZaekcyeFNodXdEWXNPRGt6RExmdlZNYWVsczd5SGRDWkhscUc2N0N6NEJFMy02bFJxcnBXb1JRZXc0V1hpaVI3S0NsWHI1S0JQVVRMcVNmTEU1dkdOU1hFV05sYjFTam9R?oc=5",
+     "summary": "St. Louis Public Radio reports that St. Louis police backed away from an idea for a reality TV show after public pushback. Only the headline was available, so the details are not included here.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "St. Louis County Executive Sam Page wants regulation on data center sound",
-     "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObi1rdHIzb3ZDbWZ0TzdwR2RxMjhTMGo0S0pMcVU2Q3RyVi1nTnZXQ3IzeUJnSkxpMFA2cHFDRE5LRWMtUUxsRUJTRlEwTkNrYXc2UTFCdWMxMXByZkNEMlBmSkp0VXIzVzVOVWdyMzhEYWxIYTRNT3FkNnAzOTNzUzlTQlFVajFlU19lUVhiZ2hTdEZjZU9XajZwYUFCUllMQmwyR3BfRGJpcDlKOS1LOEQxQS0tOVNNSDljNDBmZE0takQ0ZXBmZzl6ZWJMN2hOaE1Ld0toUV8zbUZp?oc=5",
-     "summary": "KSDK reports that St. Louis County Executive Sam Page wants regulation of data center sound. Only the headline was available, so the details of any proposal are not known.",
+     "title": "Missouri lawmakers have reversed many voter-passed laws. Amendment 6 could block that.",
+     "source": "St. Louis Post-Dispatch",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHFtUk8tMVhVWFpuT1JWT3Bfel9IUG1yQmlJNGxTUFJ4dWpHSGlBTUFxYjBfUVF2aVpQdEI1ZmF4UUMybnYyMnVHRFQ2em1RT3FQN2tjSkJlcU1fQkdlYjA4QzFUQ2JGMjZTYXhIVFpIdU5ZUXZXYWJzWkE4Y3pITWhxYS1PMFVMb1dmRzFmYlczVXRXcWZwRm1pT0c1SzhsWGltRW5OZEY?oc=5",
+     "summary": "The Post-Dispatch reports on Missouri lawmakers reversing many laws passed by voters, and says Amendment 6 could block that. This is a paywalled source and only the headline was available, so the details are not included here.",
      "basis": "headline only",
-     "paywalled": false
-    },
-    {
-     "title": "St. Louis' train quiet zones get 100% of needed upgrades, officials say",
-     "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDVmaGdFVnhVcXd0dDl0bXJVVzVyU0VpYnp3d2FHYUpvbGtSTWhObWtrVzJTZHVpR2hGSDNuYm5CQmctbXk1WGcxVGdUZ1djQlJPa2x0YlhFTEFndEVIZTRFYzFoVzRxTU1JaF82bHNnWXhSQjh3ZWJ0Q0JzU1BpWmlkaS03Zjk2dG9VandWYk0yTEl0VXNNXzBZODhodldBVzluSmlsLU5xUjhnT0VjckVGa2ZVci1RTlpENlpsM05HODZfczlZVjNlMGk4VnpEUHdFMzFxVFRIV2g3QVRmd1NCM1hmZ2V3bHh3OXp3WlYzaUNadkNNZHB3?oc=5",
-     "summary": "KSDK reports that officials say St. Louis train quiet zones have received 100% of the needed upgrades. Only the headline was available, so no further details are known.",
-     "basis": "headline only",
-     "paywalled": false
+     "paywalled": true
     }
    ]
   },
@@ -98,27 +98,27 @@
    "title": "Interests",
    "items": [
     {
-     "title": "An Elite Runner Was Supposed to Run the Detroit Marathon. She Died the Night Before the Race.",
+     "title": "An Elite Marathoner Blamed a Prescription for Her Positive Doping Test. The Problem? The ‘Doctor’ Who Wrote It Wasn’t a Doctor.",
      "source": "Runner's World",
-     "url": "https://www.runnersworld.com/news/a74205863/grace-nolan-detroit-marathon-death/",
-     "summary": "Runner's World reports that Grace Nolan, 25, an elite runner who was set to run the Detroit Marathon, died the night before the race. She had finished fourth in her marathon debut while in her first semester of medical school.",
+     "url": "https://www.runnersworld.com/news/a74220325/ruti-aga-doping-ban/",
+     "summary": "Runner's World reports that elite marathoner Ruti Aga, a podium finisher at six World Marathon Majors and the 2019 Tokyo Marathon winner, blamed a prescription for her positive doping test. The headline says the person who wrote the prescription was not a doctor. The excerpt does not give the outcome of her case.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "I Didn’t Run for a Month Before Boston—and Still Crossed the Marathon Finish Line. How Cross-Training Kept Me on Track for Race Day.",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74123089/cross-training-for-race/",
-     "summary": "A runner tells how cross-training kept her on track for the Boston Marathon after a month without running. The article's advice is that, with a doctor's clearance, you can safely cross-train your way to your next starting line.",
+     "title": "Belgian Duo of Merijn Geerts and Ivo Steyaert Set a Backyard Ultra Record For a Third Time",
+     "source": "iRunFar",
+     "url": "https://www.irunfar.com/merijn-geerts-ivo-steyaert-backyard-ultra-record-2026",
+     "summary": "iRunFar reports that Belgian runners Merijn Geerts and Ivo Steyaert finished together to break the backyard ultra record for a third time. The excerpt does not give the new distance.",
      "basis": "excerpt",
      "paywalled": false
     },
     {
-     "title": "Run/Walkers Can Do Speedwork Too. Here’s How Adding Intervals to Training Cut 10 Minutes Off My Half Marathon Time",
-     "source": "Runner's World",
-     "url": "https://www.runnersworld.com/training/a74184078/run-walk-speedwork/",
-     "summary": "A run and walk runner explains how adding intervals to training cut 10 minutes off a half marathon time. The piece is a guide to making speedwork feel less intimidating and more effective.",
-     "basis": "excerpt",
+     "title": "5 starting pitchers Cardinals could target in free agency",
+     "source": "MLB.com Cardinals",
+     "url": "https://www.mlb.com/cardinals/news/cardinals-starting-pitching-targets-during-2026-free-agency",
+     "summary": "MLB.com lists five starting pitchers the Cardinals could target in free agency this offseason. Only the headline was available, so the names are not included here.",
+     "basis": "headline only",
      "paywalled": false
     }
    ]
