@@ -27,8 +27,17 @@ def age_h(iso):
     return (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(iso)).total_seconds() / 3600
 
 
+def load_fulltext():
+    try:
+        with open(os.path.join(ROOT, "docs", "fulltext.json"), encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
 def candidates():
     d = load()
+    ft = load_fulltext()
     print("generated:", d["generated"])
     print("snapshot:", "; ".join(f'{x["label"]} {x["price"]} ({x["change_pct"]}%)' for x in d["snapshot"] if x["price"] is not None))
     for sec in d["sections"]:
@@ -41,6 +50,8 @@ def candidates():
             print(f'{s["id"]} | {s["source"]}{flag}{tk} | {age_h(s["published"]):.0f}h | {s["title"]}')
             if s.get("summary"):
                 print("    excerpt:", s["summary"][:240])
+            if s["id"] in ft:
+                print("    FULLTEXT (use basis full article):", ft[s["id"]]["text"][:1500].replace("\n", " "))
             print("    url:", s["url"][:140])
 
 

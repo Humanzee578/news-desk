@@ -14,6 +14,8 @@ import feedparser
 import requests
 import yaml
 
+import fulltext
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs", "data.json")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; NewsDeskBot/1.0)"}
@@ -247,6 +249,11 @@ def main():
         s["score"] = score(s, cfg)
 
     n = summarize(stories, cfg)
+    try:
+        ft_ok, ft_tried = fulltext.run(stories, NOW)
+        print(f"fulltext fetched={ft_ok} tried={ft_tried}")
+    except Exception as ex:
+        print("fulltext skipped:", ex, file=sys.stderr)
     leads = cluster(stories)
     leads.sort(key=lambda x: -x["score"])
 
