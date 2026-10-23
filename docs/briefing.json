@@ -1,35 +1,35 @@
 {
- "generated": "2026-10-22T22:55:32.716369+00:00",
- "data_generated": "2026-10-22T20:37:38.265502+00:00",
- "markets_note": "A mixed day: the S&P 500 fell about 1.0 percent and the Nasdaq fell about 2.6 percent, while the Dow gained about 1.3 percent. The 10 year Treasury yield eased to 4.95 percent and the VIX was near 19.",
+ "generated": "2026-10-23T11:28:23.275201+00:00",
+ "data_generated": "2026-10-23T07:44:06.756139+00:00",
+ "markets_note": "Stocks were mixed in the latest snapshot: the S&P 500 fell 1.04 percent and the Nasdaq dropped 2.64 percent after a Thursday tech selloff, while the Dow rose 1.32 percent. The 10 year Treasury yield was 4.95 percent and the VIX was 19.25.",
  "sections": [
   {
    "id": "legal",
    "title": "Legal",
    "items": [
     {
-     "title": "NAIC: Top home insurers by premiums, market share in 2025",
-     "source": "PropertyCasualty360",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZDdVhEb2p6M2pQOWI1NmZ0Q1N5WDQ4emVHLVVFMzhHM2FyWkI5RlBjRmI3TkdNWUhBRjNmSkwxLUxkRWNKdENTOUY4RUoxeG5TaEtEcEszamNyUWhPbzNfSmNCOGVGak1yTmJRTmhtUjFTSmRTSzlEcklvOU9fLXdLNUxJejlwdWZjOFNMcjdMX1dLWjg3SkljM1NqU2JZZ0ZNTVFR?oc=5",
-     "summary": "PropertyCasualty360 reports on the NAIC list of top home insurers by premiums and market share for 2025. Only the headline was available, so no details on the rankings are included here.",
-     "basis": "headline only",
+     "title": "AM Best: Social Inflation Drives Surge in Commercial Auto Liability Claims",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/national/2026/10/23/890084.htm",
+     "summary": "AM Best reports that rising litigation costs, often called social inflation, keep pushing up commercial auto liability claims. Over 2014 to 2024, first year loss payments grew about 6.4 percent a year, compared with 2.8 percent for general inflation. Claims staying open longer adds exposure to jury awards, and the report says tort reform in Florida has helped bring average paid claim costs down.",
+     "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "Missouri Supreme Court disbars Columbia attorney over missed court appearances",
-     "source": "Missouri Lawyers Weekly",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXcxNVZVYU44dnEwSWJ5cmJlN01NMEFaTVBTSmxWQVljeVYxeGVFT2lvaF9fZHNqblYxdHlVZ0stYU44UDVTOGZBN1VrQ2pVLUtTbXFGU24tR3NCc2phajNGdlVyRDdNN2pFa3U4Z2l0LVVXYy13d0xlNXJRQ1pwSWdCOTFsUVFU?oc=5",
-     "summary": "Missouri Lawyers Weekly reports that the Missouri Supreme Court disbarred a Columbia attorney over missed court appearances. Only the headline was available, so no further details are included here.",
-     "basis": "headline only",
-     "paywalled": true
+     "title": "Viewpoint: Generational Shifts, Delayed Projects Are Shaping Builder’s Risk",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/national/2026/10/23/890068.htm",
+     "summary": "An insurance executive's opinion piece says builder's risk insurance is being shaped by stalled projects, high loss ratios and a changing workforce. Tariffs and supply problems are delaying construction starts, and claims tend to show up many months after a policy begins. The writer also notes arson at developments is a major source of losses.",
+     "basis": "full article",
+     "paywalled": false
     },
     {
-     "title": "Employer-Employee-Discrimination-Dismissal-Failure to State a Claim",
-     "source": "Missouri Lawyers Weekly",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcldMTUJzZ0hJT19fS3pya3A3Y1l6VHRLNzNYaU1waGlBSExGVTBDZnVLS2hmRTlFLVRoRXdpTVNtWWVwZ1FJcXVQY1NKeVo2LXdtcFJjWXdHTWR0MXZjT3dtTV9YQy1yRkpwU1V3X2JXdFNIOWhTUGRFOXd1S0twdkZhSlg4WFNBck8zWVJJNGNDUnhDalk3SXRzQi1oelpBczJqSy1TbDktQQ?oc=5",
-     "summary": "Missouri Lawyers Weekly summarizes a ruling in an employer and employee discrimination matter that was dismissed for failure to state a claim. Only the headline was available, so the court and the reasoning are not known from this item.",
-     "basis": "headline only",
-     "paywalled": true
+     "title": "OSHA Proposes $648K in Fines for 6 Employers at New York Excavation Site",
+     "source": "Insurance Journal",
+     "url": "https://www.insurancejournal.com/news/east/2026/10/23/889667.htm",
+     "summary": "The federal workplace safety agency has cited six New York and New Jersey employers for serious safety violations involving excavation hazards at a large mixed use construction site. The headline puts the proposed fines at $648,000 in total. Only the opening excerpt was available, so details are limited.",
+     "basis": "excerpt",
+     "paywalled": false
     }
    ]
   },
@@ -38,27 +38,27 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Goldman Sachs has a new warning for the housing market for 2027",
+     "title": "Procter & Gamble Q1 Earnings Call Highlights",
      "source": "Yahoo Finance",
-     "url": "https://www.thestreet.com/real-estate/goldman-sachs-warning-housing-market-2027?.tsrc=rss",
-     "summary": "TheStreet says fall housing market data tells a consistent story and that Goldman Sachs, a watchlist ticker, has issued a forecast for what comes next, framed as a warning for 2027. The excerpt does not give the forecast numbers.",
-     "basis": "excerpt",
+     "url": "https://www.marketbeat.com/instant-alerts/transcript-procter-gamble-q1-earnings-call-highlights-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+     "summary": "Procter and Gamble reported organic sales up 4 percent for its first fiscal quarter, led by volume growth, and kept its full year outlook. Core earnings per share were $2, up 1 percent, as higher commodity and freight costs cut into margins. Management warned those cost pressures are expected to build over the next several quarters.",
+     "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "Essential Properties Realty Trust Q3 Earnings Call Highlights",
+     "title": "International Business Machines (IBM) Just Gave Investors Something To Think About",
      "source": "Yahoo Finance",
-     "url": "https://www.marketbeat.com/instant-alerts/transcript-essential-properties-realty-trust-q3-earnings-call-highlights-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "summary": "Essential Properties Realty Trust raised its 2026 outlook and gave first guidance for 2027 after third quarter results. The company credited investment activity and portfolio occupancy, according to the excerpt.",
-     "basis": "excerpt",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-just-021540420.html?.tsrc=rss",
+     "summary": "IBM reported third quarter revenue of $17.1 billion and adjusted earnings of $2.95 per share, both above Wall Street expectations. It kept its full year revenue growth outlook of 4 to 5 percent, raised its free cash flow outlook and held its quarterly dividend at $1.69. The article says the stock is up about 7.7 percent over the past week.",
+     "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
+     "title": "'Big Short' Investor Michael Burry Bumps Up Substack Subscription Price, Flags 4 'Busted' Bear-Market Havens",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/top-lodging-stocks-3q26-earnings-192143630.html?.tsrc=rss",
-     "summary": "Wells Fargo, a watchlist ticker, expects lodging stocks to beat third quarter revenue expectations as revenue per available room growth keeps running ahead of forecasts. The excerpt does not name the top picks.",
-     "basis": "excerpt",
+     "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
+     "summary": "On Thursday, when tech stocks sold off, investor Michael Burry pointed to Adobe, Fiserv, Birkenstock and QXO as beaten down stocks that held up. Adobe rose 6.1 percent while the Nasdaq tracking fund fell 2.9 percent. He also raised his paid newsletter prices starting Nov. 1 and flagged a pending accounting proposal that could affect how Nvidia reports revenue.",
+     "basis": "full article",
      "paywalled": false
     }
    ]
@@ -68,28 +68,28 @@
    "title": "General",
    "items": [
     {
-     "title": "Missouri's top education official resigns amid A-F school rating controversy",
-     "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRG50ZkZQZVhHOExGLTRzUTJlMTRya1plYUpoUnNDSlFVRzBZVk1GRUNYTkxYMG9aLVEzSllqMWVXX2xBc1hwYVlUOFhGQjdmUWFIRF9sTkE0NzVaVmZWNHRhXzN0Rk5DM3lpS2JkeGFaWEZSbVdCWlE0Z25raGE3dlZhbmljVFk1ZUc2QjZSY0t3Z05ULXVkVWQyaWxiSF9BR1BlSTR3bW14RUJqMExGQ3Rnb1lFa0VsT1lBNzRfRzhYLWFEeW5vSExqd1pTZDBXSUYwTE0xOXM5bE42YjEwZFpQamJKdE9M?oc=5",
-     "summary": "KSDK reports that Missouri's top education official has resigned amid controversy over the state's school rating system. Only the headline was available, so the details are not included here.",
-     "basis": "headline only",
-     "paywalled": false
-    },
-    {
      "title": "‘SLMPD heard you’: After pushback, St. Louis police back down from reality TV show idea",
      "source": "St. Louis Public Radio",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3ZWNkdYbXc0d1ppdG92ZTlzaW9wenRYT1ZaekcyeFNodXdEWXNPRGt6RExmdlZNYWVsczd5SGRDWkhscUc2N0N6NEJFMy02bFJxcnBXb1JRZXc0V1hpaVI3S0NsWHI1S0JQVVRMcVNmTEU1dkdOU1hFV05sYjFTam9R?oc=5",
-     "summary": "St. Louis Public Radio reports that St. Louis police backed away from an idea for a reality TV show after public pushback. Only the headline was available, so the details are not included here.",
+     "summary": "Headline only: after public pushback, St. Louis police backed down from an idea for a reality TV show. The article text was not available for this briefing.",
      "basis": "headline only",
      "paywalled": false
     },
     {
-     "title": "Missouri lawmakers have reversed many voter-passed laws. Amendment 6 could block that.",
-     "source": "St. Louis Post-Dispatch",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHFtUk8tMVhVWFpuT1JWT3Bfel9IUG1yQmlJNGxTUFJ4dWpHSGlBTUFxYjBfUVF2aVpQdEI1ZmF4UUMybnYyMnVHRFQ2em1RT3FQN2tjSkJlcU1fQkdlYjA4QzFUQ2JGMjZTYXhIVFpIdU5ZUXZXYWJzWkE4Y3pITWhxYS1PMFVMb1dmRzFmYlczVXRXcWZwRm1pT0c1SzhsWGltRW5OZEY?oc=5",
-     "summary": "The Post-Dispatch reports on Missouri lawmakers reversing many laws passed by voters, and says Amendment 6 could block that. This is a paywalled source and only the headline was available, so the details are not included here.",
+     "title": "Missouri ramps up preparations for new Medicaid work requirements",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXNYYnlYS1MxeE5RWWVxY2ZXOE5XWms1bFZua2h6UjIxTldDUkd0aGt3b3lpblQ3R04wN3FSTm1JXzliWER2V0VxeERkaTlmdXRhaXNyc28yVXBWclBrN2EzV0Ffd0VWbzhVVU91cDR4SHNIdVZsUlF0ck1hejBqdWZmM3l0VVdLdHpScTdmNW1rallTalR1RU1pUDRuN2ZV?oc=5",
+     "summary": "Headline only: Missouri is ramping up preparations for new Medicaid work requirements. The article text was not available for this briefing.",
      "basis": "headline only",
-     "paywalled": true
+     "paywalled": false
+    },
+    {
+     "title": "St. Louis' top judges on retention: Read the reviews, not the rulings",
+     "source": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUk0S081SlQ1a0RfcWVEb0djUnVCcmpfLUUtOUtsV0d5VTVHY3YzX2czRUFYQS1tNUdZSUhxRGZCVXdkVVVKYnhJRmZzc2RuV21YelJINldscnJwako2cXgzYUdWR0R6SHF0aHU5ak1mdEFIUjBDRk1RUC1DeXFGdUZGeFVyMTlBSkJJbUVBd1hRSENBcTEyc01CS1RjaWdzNENPenEzTEN6OUl0dVVNV2YtbUlfeEFHb3daVU9tQi01Rnc0YmtOSEVLUnctZWRVeGtMNWVqaWI?oc=5",
+     "summary": "Headline only: a KSDK piece on retention of St. Louis area judges that points readers to judge reviews rather than rulings. The article text was not available for this briefing.",
+     "basis": "headline only",
+     "paywalled": false
     }
    ]
   },
@@ -101,15 +101,7 @@
      "title": "An Elite Marathoner Blamed a Prescription for Her Positive Doping Test. The Problem? The ‘Doctor’ Who Wrote It Wasn’t a Doctor.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/news/a74220325/ruti-aga-doping-ban/",
-     "summary": "Runner's World reports that elite marathoner Ruti Aga, a podium finisher at six World Marathon Majors and the 2019 Tokyo Marathon winner, blamed a prescription for her positive doping test. The headline says the person who wrote the prescription was not a doctor. The excerpt does not give the outcome of her case.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "Belgian Duo of Merijn Geerts and Ivo Steyaert Set a Backyard Ultra Record For a Third Time",
-     "source": "iRunFar",
-     "url": "https://www.irunfar.com/merijn-geerts-ivo-steyaert-backyard-ultra-record-2026",
-     "summary": "iRunFar reports that Belgian runners Merijn Geerts and Ivo Steyaert finished together to break the backyard ultra record for a third time. The excerpt does not give the new distance.",
+     "summary": "Runner's World reports on elite marathoner Ruti Aga, who has stood on the podium at six World Marathon Majors and won the 2019 Tokyo Marathon. The headline says she blamed a prescription for a positive doping test, and that the person who wrote it was not a doctor. Only the opening excerpt was available.",
      "basis": "excerpt",
      "paywalled": false
     },
@@ -117,8 +109,16 @@
      "title": "5 starting pitchers Cardinals could target in free agency",
      "source": "MLB.com Cardinals",
      "url": "https://www.mlb.com/cardinals/news/cardinals-starting-pitching-targets-during-2026-free-agency",
-     "summary": "MLB.com lists five starting pitchers the Cardinals could target in free agency this offseason. Only the headline was available, so the names are not included here.",
+     "summary": "Headline only: MLB.com lists five starting pitchers the Cardinals could target in 2026 free agency. The article text was not available for this briefing.",
      "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "Belgian Duo of Merijn Geerts and Ivo Steyaert Set a Backyard Ultra Record For a Third Time",
+     "source": "iRunFar",
+     "url": "https://www.irunfar.com/merijn-geerts-ivo-steyaert-backyard-ultra-record-2026",
+     "summary": "Belgian runners Merijn Geerts and Ivo Steyaert finished together to set a backyard ultra record for the third time, according to iRunFar. Only the opening excerpt was available, so details of the new mark are not included.",
+     "basis": "excerpt",
      "paywalled": false
     }
    ]
