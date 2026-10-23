@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-23T11:28:23.275201+00:00",
- "data_generated": "2026-10-23T07:44:06.756139+00:00",
- "markets_note": "Stocks were mixed in the latest snapshot: the S&P 500 fell 1.04 percent and the Nasdaq dropped 2.64 percent after a Thursday tech selloff, while the Dow rose 1.32 percent. The 10 year Treasury yield was 4.95 percent and the VIX was 19.25.",
+ "generated": "2026-10-23T22:51:05.043571+00:00",
+ "data_generated": "2026-10-23T20:41:17.977400+00:00",
+ "markets_note": "Stocks were mixed, with the S&P 500 down 0.47% and the Nasdaq down 0.71% while the Dow gained 0.41%. The 10 year Treasury yield sat near 4.99%, the VIX rose to 19.45, and futures pointed lower.",
  "sections": [
   {
    "id": "legal",
@@ -11,25 +11,25 @@
      "title": "AM Best: Social Inflation Drives Surge in Commercial Auto Liability Claims",
      "source": "Insurance Journal",
      "url": "https://www.insurancejournal.com/news/national/2026/10/23/890084.htm",
-     "summary": "AM Best reports that rising litigation costs, often called social inflation, keep pushing up commercial auto liability claims. Over 2014 to 2024, first year loss payments grew about 6.4 percent a year, compared with 2.8 percent for general inflation. Claims staying open longer adds exposure to jury awards, and the report says tort reform in Florida has helped bring average paid claim costs down.",
+     "summary": "An AM Best report says rising litigation costs, often called social inflation, are driving up commercial auto liability claims. First year loss payments grew about 6.4% a year from 2014 to 2024, versus 2.8% yearly economic inflation. Claims are staying open longer, which leaves more exposure to jury verdicts, and umbrella pricing has climbed as large auto claims spill into excess coverage. The report notes that Florida's tort reforms have helped bring average claim costs down.",
      "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "Viewpoint: Generational Shifts, Delayed Projects Are Shaping Builder’s Risk",
+     "title": "Oklahoma Landlord to Pay $52K for Violating Fair Housing Act",
      "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/national/2026/10/23/890068.htm",
-     "summary": "An insurance executive's opinion piece says builder's risk insurance is being shaped by stalled projects, high loss ratios and a changing workforce. Tariffs and supply problems are delaying construction starts, and claims tend to show up many months after a policy begins. The writer also notes arson at developments is a major source of losses.",
+     "url": "https://www.insurancejournal.com/news/southcentral/2026/10/23/890193.htm",
+     "summary": "The Justice Department announced that an Oklahoma City rental property's owners will pay $52,500 to settle a Fair Housing Act suit. The suit alleged a manager refused to rent to a single mother because her young son would live there. The settlement also requires a nondiscrimination policy and training. This is a federal court matter in Oklahoma, so it is persuasive only for Missouri purposes.",
      "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "OSHA Proposes $648K in Fines for 6 Employers at New York Excavation Site",
-     "source": "Insurance Journal",
-     "url": "https://www.insurancejournal.com/news/east/2026/10/23/889667.htm",
-     "summary": "The federal workplace safety agency has cited six New York and New Jersey employers for serious safety violations involving excavation hazards at a large mixed use construction site. The headline puts the proposed fines at $648,000 in total. Only the opening excerpt was available, so details are limited.",
-     "basis": "excerpt",
-     "paywalled": false
+     "title": "New Mexico’s outside lawyers could collect up to $1.27 billion in Meta case",
+     "source": "Missouri Lawyers Weekly",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTN5cUVpWk1yWE5nYXUzSFdLb3lOTEhVR1gwSDdVYUFSd2hrZXJMNnpWV1F1WDcyOUJGd1ExZkJNYVFnZGlGVEZZSnlZQ1NodFdkZ3JBeUdyVUF3c3NHclBOX2E1UEJkTHcxMzR1QUZMMFRsSmtPMF90WGtTMVpSeGdNUQ?oc=5",
+     "summary": "Headline only, the article is paywalled and was not read. The headline reports that outside lawyers working for New Mexico could collect up to $1.27 billion in fees in a case against Meta. Nothing further is known beyond the headline, and any out of state outcome would be persuasive only in Missouri.",
+     "basis": "headline only",
+     "paywalled": true
     }
    ]
   },
@@ -38,26 +38,26 @@
    "title": "Markets",
    "items": [
     {
-     "title": "Procter & Gamble Q1 Earnings Call Highlights",
+     "title": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
      "source": "Yahoo Finance",
-     "url": "https://www.marketbeat.com/instant-alerts/transcript-procter-gamble-q1-earnings-call-highlights-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "summary": "Procter and Gamble reported organic sales up 4 percent for its first fiscal quarter, led by volume growth, and kept its full year outlook. Core earnings per share were $2, up 1 percent, as higher commodity and freight costs cut into margins. Management warned those cost pressures are expected to build over the next several quarters.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/dow-small-caps-climb-weekly-200800692.html?.tsrc=rss",
+     "summary": "A press release style weekly wrap describes a volatile earnings week with a split result: the Dow and small caps rose while the Nasdaq slipped on weakness in large tech names. It reports the VIX near 19.4, the 10 year Treasury yield easing to 4.99%, gold and silver falling, and crude oil jumping on Thursday. It also notes Meta booked a large charge tied to an agreement with state attorneys general over teen social media litigation. This is promotional commentary, so treat the figures with some care.",
      "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "International Business Machines (IBM) Just Gave Investors Something To Think About",
+     "title": "Wells Fargo Names Top Pick Ahead of Q3 Earnings",
      "source": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-just-021540420.html?.tsrc=rss",
-     "summary": "IBM reported third quarter revenue of $17.1 billion and adjusted earnings of $2.95 per share, both above Wall Street expectations. It kept its full year revenue growth outlook of 4 to 5 percent, raised its free cash flow outlook and held its quarterly dividend at $1.69. The article says the stock is up about 7.7 percent over the past week.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-names-top-pick-160959144.html?.tsrc=rss",
+     "summary": "Wells Fargo named Amazon its top long idea among mega cap stocks heading into third quarter earnings. The bank expects Amazon Web Services to drive positive revisions to revenue and operating income. It acknowledges some near term risk from fuel costs and longer term questions about agentic commerce.",
      "basis": "full article",
      "paywalled": false
     },
     {
-     "title": "'Big Short' Investor Michael Burry Bumps Up Substack Subscription Price, Flags 4 'Busted' Bear-Market Havens",
+     "title": "Adobe Stock Has Been Under Pressure. Here’s What Could Spark a Turnaround",
      "source": "Yahoo Finance",
-     "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
-     "summary": "On Thursday, when tech stocks sold off, investor Michael Burry pointed to Adobe, Fiserv, Birkenstock and QXO as beaten down stocks that held up. Adobe rose 6.1 percent while the Nasdaq tracking fund fell 2.9 percent. He also raised his paid newsletter prices starting Nov. 1 and flagged a pending accounting proposal that could affect how Nvidia reports revenue.",
+     "url": "https://247wallst.com/investing/2026/10/23/adobe-stock-has-been-under-pressure-heres-what-could-spark-a-turnaround/?.tsrc=rss",
+     "summary": "Adobe keeps beating earnings estimates, yet the stock is down about 27% this year, and the article lays out the debate over why. The writer's price target is $298.13, about 16% above the current $256.13, citing a new CEO on December 1 and fast growth in AI related revenue. Risks include a 36% to 37% drop in net new recurring revenue, a CFO exit, and 23 analysts rating it a hold.",
      "basis": "full article",
      "paywalled": false
     }
@@ -68,26 +68,26 @@
    "title": "General",
    "items": [
     {
-     "title": "‘SLMPD heard you’: After pushback, St. Louis police back down from reality TV show idea",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3ZWNkdYbXc0d1ppdG92ZTlzaW9wenRYT1ZaekcyeFNodXdEWXNPRGt6RExmdlZNYWVsczd5SGRDWkhscUc2N0N6NEJFMy02bFJxcnBXb1JRZXc0V1hpaVI3S0NsWHI1S0JQVVRMcVNmTEU1dkdOU1hFV05sYjFTam9R?oc=5",
-     "summary": "Headline only: after public pushback, St. Louis police backed down from an idea for a reality TV show. The article text was not available for this briefing.",
-     "basis": "headline only",
-     "paywalled": false
-    },
-    {
-     "title": "Missouri ramps up preparations for new Medicaid work requirements",
-     "source": "St. Louis Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXNYYnlYS1MxeE5RWWVxY2ZXOE5XWms1bFZua2h6UjIxTldDUkd0aGt3b3lpblQ3R04wN3FSTm1JXzliWER2V0VxeERkaTlmdXRhaXNyc28yVXBWclBrN2EzV0Ffd0VWbzhVVU91cDR4SHNIdVZsUlF0ck1hejBqdWZmM3l0VVdLdHpScTdmNW1rallTalR1RU1pUDRuN2ZV?oc=5",
-     "summary": "Headline only: Missouri is ramping up preparations for new Medicaid work requirements. The article text was not available for this briefing.",
-     "basis": "headline only",
-     "paywalled": false
-    },
-    {
-     "title": "St. Louis' top judges on retention: Read the reviews, not the rulings",
+     "title": "Kehoe calls for investigation into St. Louis police board he appointed after chief's massive raise",
      "source": "KSDK",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUk0S081SlQ1a0RfcWVEb0djUnVCcmpfLUUtOUtsV0d5VTVHY3YzX2czRUFYQS1tNUdZSUhxRGZCVXdkVVVKYnhJRmZzc2RuV21YelJINldscnJwako2cXgzYUdWR0R6SHF0aHU5ak1mdEFIUjBDRk1RUC1DeXFGdUZGeFVyMTlBSkJJbUVBd1hRSENBcTEyc01CS1RjaWdzNENPenEzTEN6OUl0dVVNV2YtbUlfeEFHb3daVU9tQi01Rnc0YmtOSEVLUnctZWRVeGtMNWVqaWI?oc=5",
-     "summary": "Headline only: a KSDK piece on retention of St. Louis area judges that points readers to judge reviews rather than rulings. The article text was not available for this briefing.",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbVE3ODJpZGw0clhscUVMb0dxOGJ6Z3ltV1BVc1l3dDBfTnRJR0ZVYk5Mb2RndklVUFFYVlM2Y1lxeWlvUzhVY0ZhUE1qdlBndFBuMUtteUp3aTlHazZ0STJFcUUzblM3b2FCT2ZtUXoyV3gtS0Y5YVBOSXNUdXRCVG9mMll0S1dSbFB0SGpHdlhTank3Rl9VQmNIcEVRLW55T1VpSUEteHV6clRHSzhmQ19KOVdBc1RHNl85WmUzVlpPTks2dFV2bWg1LVpaVEdYeFZHb3J0QXhNMjVCUFpfbEVwVEEyYmlRLVoxcHV3RHV4cnJnYWpVWkNhb3NpaGxiNGtueg?oc=5",
+     "summary": "Headline only, the full article was not read. The headline says the governor is calling for an investigation into the St. Louis police board he appointed after the police chief received a very large raise.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "'This is the railroad': Greater St. Louis Inc. CEO warns cities not to turn down data centers",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVvZTV2S0hKdUVvdUpFbkpfdmRqMFQtNGZuOVAtT3M1TWtoeDFQNU44NUtISXQ5VERBWHU2VzNBa1NmNUZmRjFVNEZPTWNNeWlQRmRKZXJaMHRpWDhLTm1rSWt0MFViV1ZxY3RMUVJMZm9zcVhuR19ZcVluajZsMDgtY1JRLU5BYkJFdXBleFdTX1JmTDN3M3hZXzdfa1k4Ml9xZGhKODhVb2xBVGRfVjN2MUxzSDBT?oc=5",
+     "summary": "Headline only, the full article was not read. The headline says the head of Greater St. Louis Inc. is warning cities not to turn down data centers, comparing them to the railroad.",
+     "basis": "headline only",
+     "paywalled": false
+    },
+    {
+     "title": "Raja the elephant to leave the St. Louis Zoo this fall to start new family",
+     "source": "St. Louis Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2dNYk94MTNPcFpUbmxrZXNWckEyaW1vZXFvb1pCVVpEbEJrSC1nSXlhRkV1YThNQlhRQkJlVFpkXzVxbEZQUEhuX2x1eFlPSlNBaDc3ekpqVUVMbFFDMGZfUC13WnFydUxpa0lJZURpS1liTGRkcG5uZEl6N2tSWVVDclEwZw?oc=5",
+     "summary": "Headline only, the full article was not read. The headline says Raja the elephant will leave the St. Louis Zoo this fall to start a new family.",
      "basis": "headline only",
      "paywalled": false
     }
@@ -98,26 +98,26 @@
    "title": "Interests",
    "items": [
     {
+     "title": "One of the World’s Top Marathoners Has Been Provisionally Suspended After an EPO Finding",
+     "source": "Runner's World",
+     "url": "https://www.runnersworld.com/news/a74229511/peres-jepchirchir-epo-suspension/",
+     "summary": "The Athletics Integrity Unit provisionally suspended marathon star Peres Jepchirchir after an out of competition sample taken in Kenya before her Sydney Marathon win tested positive for EPO. This is not a final ruling and the case still has to go through the formal process. Under World Marathon Majors rules, a doping ban of three months or more would mean a lifetime ban from those events.",
+     "basis": "full article",
+     "paywalled": false
+    },
+    {
+     "title": "MLB Pipeline Pitching Lab: Tekoah Roby",
+     "source": "MLB.com Cardinals",
+     "url": "https://www.mlb.com/cardinals/news/tekoah-roby-pitching-breakdown",
+     "summary": "Cardinals prospect Tekoah Roby, back from Tommy John surgery, has allowed no runs through three Arizona Fall League starts, with 13 strikeouts and one walk over 9 and 2/3 innings. His fastball averaged 97.0 mph in his debut, though he says that was mostly adrenaline and it has settled to about 95.6 to 95.8 since. He describes the fastball mainly as a setup pitch for his breaking balls.",
+     "basis": "full article",
+     "paywalled": false
+    },
+    {
      "title": "An Elite Marathoner Blamed a Prescription for Her Positive Doping Test. The Problem? The ‘Doctor’ Who Wrote It Wasn’t a Doctor.",
      "source": "Runner's World",
      "url": "https://www.runnersworld.com/news/a74220325/ruti-aga-doping-ban/",
-     "summary": "Runner's World reports on elite marathoner Ruti Aga, who has stood on the podium at six World Marathon Majors and won the 2019 Tokyo Marathon. The headline says she blamed a prescription for a positive doping test, and that the person who wrote it was not a doctor. Only the opening excerpt was available.",
-     "basis": "excerpt",
-     "paywalled": false
-    },
-    {
-     "title": "5 starting pitchers Cardinals could target in free agency",
-     "source": "MLB.com Cardinals",
-     "url": "https://www.mlb.com/cardinals/news/cardinals-starting-pitching-targets-during-2026-free-agency",
-     "summary": "Headline only: MLB.com lists five starting pitchers the Cardinals could target in 2026 free agency. The article text was not available for this briefing.",
-     "basis": "headline only",
-     "paywalled": false
-    },
-    {
-     "title": "Belgian Duo of Merijn Geerts and Ivo Steyaert Set a Backyard Ultra Record For a Third Time",
-     "source": "iRunFar",
-     "url": "https://www.irunfar.com/merijn-geerts-ivo-steyaert-backyard-ultra-record-2026",
-     "summary": "Belgian runners Merijn Geerts and Ivo Steyaert finished together to set a backyard ultra record for the third time, according to iRunFar. Only the opening excerpt was available, so details of the new mark are not included.",
+     "summary": "Based on the excerpt only. Elite marathoner Ruti Aga, a podium finisher at six World Marathon Majors and the 2019 Tokyo winner, blamed a prescription for a positive doping test. The headline says the problem is that the person who wrote it was not a doctor.",
      "basis": "excerpt",
      "paywalled": false
     }
